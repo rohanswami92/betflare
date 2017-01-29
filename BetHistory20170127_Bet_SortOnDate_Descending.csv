@@ -1,0 +1,506 @@
+bet_status,date_placed,type,bet_details,price,odds,stake,return,bet_id,bet_type,number_of_lines,stake_per_line,percentage,channel,bonus_bets_redeeemed
+Lose,25/01/17 15:16,Soccer,FC Utrecht v Cambuur Leeuwarden / Win-Draw-Win / FC Utrecht @ 1.45,1.45 (Win),1.45,4,0,O/1945704/0000510/D,Single,1,4,,SB Internet,0
+Cashed Out,25/01/17 15:16,Soccer,Celta Vigo v Real Madrid / Win-Draw-Win / Real Madrid @ 1.62,1.62 (Win),1.62,4,1.25,O/1945704/0000509/D,Single,1,4,,SB Internet,0
+Lose,25/01/17 15:16,Soccer,Barcelona v Real Sociedad / Win-Draw-Win / Draw @ 6.00,6.00 (Win),6,1,0,O/1945704/0000508/D,Single,1,1,,SB Internet,0
+Lose,20/01/17 17:54,Soccer,Ivory Coast v Congo DR / Win-Draw-Win / Ivory Coast @ 1.83,1.83 (Win),1.83,4,0,O/1945704/0000502/D,Single,1,4,,SB Internet,0
+Win,20/01/17 17:54,Soccer,Morocco v Togo / Win-Draw-Win / Morocco @ 1.83,1.83 (Win),1.83,4,7.32,O/1945704/0000501/D,Single,1,4,,SB Internet,0
+Win,20/01/17 17:54,Soccer,Espanyol v Granada / Win-Draw-Win / Espanyol @ 1.53,1.53 (Win),1.53,4,6.12,O/1945704/0000500/D,Single,1,4,,SB Internet,0
+Win,20/01/17 17:54,Soccer,Crystal Palace v Everton / Win-Draw-Win / Everton @ 2.37,2.37 (Win),2.37,3,7.11,O/1945704/0000499/D,Single,1,3,,SB Internet,0
+Win,20/01/17 17:54,Soccer,Middlesbrough v West Ham / Win-Draw-Win / West Ham @ 3.10,3.10 (Win),3.1,2,6.2,O/1945704/0000498/D,Single,1,2,,SB Internet,0
+Win,20/01/17 17:54,Soccer,West Brom v Sunderland / Win-Draw-Win / West Brom @ 1.67,1.67 (Win),1.67,3,5.01,O/1945704/0000497/D,Single,1,3,,SB Internet,0
+Win,20/01/17 17:54,Soccer,Nantes v PSG / Win-Draw-Win / PSG @ 1.36,1.36 (Win),1.36,3,4.08,O/1945704/0000496/D,Single,1,3,,SB Internet,0
+Win,20/01/17 17:54,Soccer,Ghana v Mali / Win-Draw-Win / Ghana @ 2.10,2.10 (Win),2.1,1,2.1,O/1945704/0000495/D,Single,1,1,,SB Internet,0
+Lose,20/01/17 17:54,Soccer,Man City v Tottenham / Win-Draw-Win / Tottenham @ 3.50,3.50 (Win),3.5,1,0,O/1945704/0000494/D,Single,1,1,,SB Internet,0
+Win,20/01/17 17:54,Soccer,Egypt v Uganda / Win-Draw-Win / Egypt @ 1.80,1.80 (Win),1.8,2,3.6,O/1945704/0000493/D,Single,1,2,,SB Internet,0
+Lose,20/01/17 17:54,Soccer,Villarreal v Valencia / Win-Draw-Win / Villarreal @ 1.83,1.83 (Win),1.83,3,0,O/1945704/0000492/D,Single,1,3,,SB Internet,0
+Win,20/01/17 17:54,Soccer,Osasuna v Sevilla / Win-Draw-Win / Sevilla @ 1.50,1.50 (Win),1.5,4,6,O/1945704/0000491/D,Single,1,4,,SB Internet,0
+Lose,19/01/17 17:33,Soccer,Algeria v Tunisia / Win-Draw-Win / Algeria @ 2.20,2.20 (Win),2.2,4,0,O/1945704/0000490/D,Single,1,4,,SB Internet,0
+Win,19/01/17 17:33,Soccer,Multibet (Doubles),2.26,2.26,4,9.04,O/1945704/0000489/D,Multibet,1,4,,SB Internet,0
+Win,19/01/17 17:33,Soccer,Multibet (Doubles),1.96,1.96,5,9.81,O/1945704/0000488/D,Multibet,1,5,,SB Internet,0
+Win,17/01/17 17:39,Soccer,Ghana v Uganda / Win-Draw-Win / Ghana @ 1.80,1.80 (Win),1.8,3,5.4,O/1945704/0000487/D,Single,1,3,,SB Internet,0
+Win,17/01/17 17:39,Tennis,G Monfils v J Vesely / Match / G Monfils @ 1.28,1.28 (Win),1.28,2,2.56,O/1945704/0000486/D,Single,1,2,,SB Internet,0
+Win,17/01/17 17:39,Tennis,O Jasika v D Ferrer / Match / D Ferrer @ 1.14,1.14 (Win),1.14,2,2.28,O/1945704/0000485/D,Single,1,2,,SB Internet,0
+Lose,17/01/17 17:39,Tennis,F Fognini v F Lopez /  Match / F Lopez @ 1.73,1.73 (Win),1.73,2,0,O/1945704/0000484/D,Single,1,2,,SB Internet,0
+Lose,17/01/17 17:39,Tennis,H Chung v R Olivo / Match / R Olivo @ 4.25,4.25 (Win),4.25,1,0,O/1945704/0000483/D,Single,1,1,,SB Internet,0
+Win,13/01/17 17:37,Soccer,Multibet (5 folds),2.61,2.61,2,5.24,O/1945704/0000482/D,Multibet,1,2,,SB Internet,0
+Lose,13/01/17 17:30,Soccer,Melbourne Victory v Brisbane Roar / Double Chance / Brisbane Roar And Draw @ 2.10,2.10 (Win),2.1,1,0,O/1945704/0000481/D,Single,1,1,,SB Internet,0
+Lose,13/01/17 17:28,Soccer,Leganes v Athletic Bilbao / Win-Draw-Win / Athletic Bilbao @ 2.30,2.30 (Win),2.3,2,0,O/1945704/0000480/D,Single,1,2,,SB Internet,0
+Lose,13/01/17 17:28,Soccer,Burnley v Southampton / Win-Draw-Win / Draw @ 3.10,3.10 (Win),3.1,1,0,O/1945704/0000479/D,Single,1,1,,SB Internet,0
+Lose,13/01/17 17:28,Soccer,Hull v Bournemouth / Win-Draw-Win / Draw @ 3.40,3.40 (Win),3.4,1,0,O/1945704/0000478/D,Single,1,1,,SB Internet,0
+Lose,13/01/17 17:28,Soccer,West Ham v Crystal Palace / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,1,0,O/1945704/0000477/D,Single,1,1,,SB Internet,0
+Win,13/01/17 17:28,Soccer,Watford v Middlesbrough / Win-Draw-Win / Draw @ 3.00,3.00 (Win),3,1,3,O/1945704/0000476/D,Single,1,1,,SB Internet,0
+Win,13/01/17 17:28,Soccer,Brentford v Newcastle / Win-Draw-Win / Newcastle @ 1.83,1.83 (Win),1.83,1,1.83,O/1945704/0000475/D,Single,1,1,,SB Internet,0
+Win,13/01/17 17:28,Soccer,Rennes v PSG / Win-Draw-Win / PSG @ 1.45,1.45 (Win),1.45,4,5.8,O/1945704/0000474/D,Single,1,4,,SB Internet,0
+Win,13/01/17 17:28,Soccer,Crotone v Bologna / Win-Draw-Win / Bologna @ 2.50,2.50 (Win),2.5,4,10,O/1945704/0000473/D,Single,1,4,,SB Internet,0
+Win,13/01/17 17:28,Soccer,Leicester v Chelsea / Win-Draw-Win / Chelsea @ 1.57,1.57 (Win),1.57,4,6.28,O/1945704/0000472/D,Single,1,4,,SB Internet,0
+Win,13/01/17 17:28,Soccer,Napoli v Pescara / Win-Draw-Win / Napoli @ 1.11,1.11 (Win),1.11,5,5.55,O/1945704/0000471/D,Single,1,5,,SB Internet,0
+Lose,13/01/17 17:28,Soccer,Everton v Man City / Win-Draw-Win / Man City @ 1.83,1.83 (Win),1.83,4,0,O/1945704/0000470/D,Single,1,4,,SB Internet,0
+Lose,10/01/17 17:16,Soccer,Multibet (Doubles),2.63,2.63,4,0,O/1945704/0000469/D,Multibet,1,4,,SB Internet,0
+Lose,06/01/17 17:11,Soccer,Multibet (Doubles),3.18,3.18,5,0,O/1945704/0000468/D,Multibet,1,5,,SB Internet,0
+Win,06/01/17 17:10,Soccer,Multibet (Trebles),2.79,2.79,5,7.63,O/1945704/0000467/D,Multibet,1,5,,SB Internet,0
+Lose,03/01/17 17:33,Soccer,Multibet (Trebles),5.66,5.66,2,0,O/1945704/0000466/D,Multibet,1,2,,SB Internet,0
+Lose,03/01/17 17:33,Soccer,Bournemouth v Arsenal / Win-Draw-Win / Arsenal @ 1.75,1.75 (Win),1.75,3,0,O/1945704/0000465/D,Single,1,3,,SB Internet,0
+Lose,03/01/17 17:33,Soccer,Stoke v Watford / Win-Draw-Win / Draw @ 3.60,3.60 (Win),3.6,3,0,O/1945704/0000464/D,Single,1,3,,SB Internet,0
+Lose,03/01/17 17:33,Soccer,Crystal Palace v Swansea / Win-Draw-Win / Draw @ 3.50,3.50 (Win),3.5,3,0,O/1945704/0000463/D,Single,1,3,,SB Internet,0
+Lose,26/12/16 23:26,Soccer,Watford v Crystal Palace / Win-Draw-Win / Crystal Palace @ 3.00,3.00 (Win),3,4,0,O/1945704/0000462/D,Single,1,4,,SB Internet,0
+Win,23/12/16 06:10,Soccer,Palermo v Pescara / Win-Draw-Win / Draw @ 3.00,3.00 (Win),3,2,6,O/1945704/0000461/D,Single,1,2,,SB Mobile,0
+Lose,23/12/16 06:10,Soccer,Palermo v Pescara / Win-Draw-Win / Palermo @ 2.20,2.20 (Win),2.2,2,0,O/1945704/0000460/D,Single,1,2,,SB Mobile,0
+Lose,23/12/16 06:10,Soccer,Fiorentina v Napoli / Win-Draw-Win / Napoli @ 1.67,1.67 (Win),1.67,4,0,O/1945704/0000459/D,Single,1,4,,SB Mobile,0
+Lose,21/12/16 15:55,Soccer,Bayern Munich v RB Leipzig / Win-Draw-Win / Draw @ 4.50,4.50 (Win),4.5,2,0,O/1945704/0000458/D,Single,1,2,,SB Internet,0
+Lose,21/12/16 15:55,Soccer,Bayern Munich v RB Leipzig / Win-Draw-Win / RB Leipzig @ 8.00,8.00 (Win),8,1,0,O/1945704/0000457/D,Single,1,1,,SB Internet,0
+Lose,21/12/16 15:55,Soccer,Bordeaux v Nice / Win-Draw-Win / Nice @ 2.80,2.80 (Win),2.8,4,0,O/1945704/0000456/D,Single,1,4,,SB Internet,0
+Win,21/12/16 15:55,Soccer,Lyon v Angers / Win-Draw-Win / Lyon @ 1.44,1.44 (Win),1.44,4,5.76,O/1945704/0000455/D,Single,1,4,,SB Internet,0
+Win,21/12/16 15:55,Soccer,PSG v Lorient / Win-Draw-Win / PSG @ 1.20,1.20 (Win),1.2,5,6,O/1945704/0000454/D,Single,1,5,,SB Internet,0
+Lose,21/12/16 15:55,Soccer,Inter Milan v Lazio / Win-Draw-Win / Draw @ 3.50,3.50 (Win),3.5,3,0,O/1945704/0000453/D,Single,1,3,,SB Internet,0
+Lose,21/12/16 15:55,Soccer,Valencia v Leganes / Win-Draw-Win / Leganes @ 5.50,5.50 (Win),5.5,2,0,O/1945704/0000452/D,Single,1,2,,SB Internet,0
+Lose,21/12/16 15:55,Soccer,Deportivo La Coruna v Betis / Win-Draw-Win / Betis @ 4.00,4.00 (Win),4,2,0,O/1945704/0000451/D,Single,1,2,,SB Internet,0
+Lose,16/12/16 17:29,Soccer,Crystal Palace v Chelsea / Win-Draw-Win / Crystal Palace @ 6.00,6.00 (Win),6,2,0,O/1945704/0000450/D,Single,1,2,,SB Internet,0
+Lose,16/12/16 17:29,Soccer,Crystal Palace v Chelsea / Win-Draw-Win / Draw @ 4.20,4.20 (Win),4.2,2,0,O/1945704/0000449/D,Single,1,2,,SB Internet,0
+Win,16/12/16 17:29,Soccer,Sporting Gijon v Villarreal / Win-Draw-Win / Villarreal @ 2.10,2.10 (Win),2.1,5,10.5,O/1945704/0000448/D,Single,1,5,,SB Internet,0
+Win,16/12/16 17:29,Soccer,Hoffenheim v Borussia Dortmund / Win-Draw-Win / Draw @ 3.75,3.75 (Win),3.75,2,7.5,O/1945704/0000447/D,Single,1,2,,SB Internet,0
+Lose,16/12/16 17:29,Soccer,RB Leipzig v Hertha Berlin / Win-Draw-Win / Hertha Berlin @ 5.50,5.50 (Win),5.5,2,0,O/1945704/0000446/D,Single,1,2,,SB Internet,0
+Lose,16/12/16 17:29,Soccer,West Ham v Hull / Win-Draw-Win / Hull @ 5.50,5.50 (Win),5.5,2,0,O/1945704/0000445/D,Single,1,2,,SB Internet,0
+Lose,16/12/16 17:29,Soccer,Atletico Madrid v Las Palmas / Win-Draw-Win / Draw @ 5.50,5.50 (Win),5.5,2,0,O/1945704/0000444/D,Single,1,2,,SB Internet,0
+Lose,16/12/16 17:29,Soccer,Feyenoord v Vitesse Arnhem / Win-Draw-Win / Draw @ 4.50,4.50 (Win),4.5,2,0,O/1945704/0000443/D,Single,1,2,,SB Internet,0
+Lose,13/12/16 16:54,Soccer,Everton v Arsenal / Win-Draw-Win / Arsenal @ 1.91,1.91 (Win),1.91,5,0,O/1945704/0000442/D,Single,1,5,,SB Internet,0
+Lose,13/12/16 16:54,Soccer,Everton v Arsenal / First to Score for their Team / No Everton  Goalscorer @ 2.75,2.75 (Win),2.75,3,0,O/1945704/0000441/D,Single,1,3,,SB Internet,0
+Lose,11/12/16 21:43,Soccer,Southampton v Middlesbrough / Win-Draw-Win / Draw @ 3.80,3.80 (Win),3.8,4,0,O/1945704/0000440/D,Single,1,4,,SB Internet,0
+Win,11/12/16 21:43,Soccer,Torino v Juventus / Win-Draw-Win / Juventus @ 1.72,1.72 (Win),1.72,4,6.88,O/1945704/0000439/D,Single,1,4,,SB Internet,0
+Win,11/12/16 21:43,Soccer,Celta Vigo v Sevilla / Win-Draw-Win / Sevilla @ 2.50,2.50 (Win),2.5,4,10,O/1945704/0000438/D,Single,1,4,,SB Internet,0
+Lose,11/12/16 01:06,Soccer,Cagliari v Napoli / Win-Draw-Win / Draw @ 4.33,4.33 (Win),4.33,3,0,O/1945704/0000437/D,Single,1,3,,SB Mobile,0
+Lose,11/12/16 01:05,Soccer,Swansea v Sunderland / Win-Draw-Win / Draw @ 3.50,3.50 (Win),3.5,4,0,O/1945704/0000436/D,Single,1,4,,SB Mobile,0
+Lose,11/12/16 01:05,Soccer,Burnley v Bournemouth / Win-Draw-Win / Bournemouth @ 2.30,2.30 (Win),2.3,4,0,O/1945704/0000435/D,Single,1,4,,SB Mobile,0
+Lose,11/12/16 01:05,Soccer,Leicester v Man City / Win-Draw-Win / Man City @ 1.75,1.75 (Win),1.75,4,0,O/1945704/0000434/D,Single,1,4,,SB Mobile,0
+Lose,10/12/16 23:19,Soccer,Watford v Everton / Win-Draw-Win / Draw @ 3.25,3.25 (Win),3.25,4,0,O/1945704/0000433/D,Single,1,4,,SB Mobile,0
+Win,24/11/16 17:32,Soccer,Multibet (Trebles),2.54,2.54,3,7.64,O/1945704/0000432/D,Multibet,1,3,,SB Internet,0
+Win,24/11/16 17:31,Soccer,Ajax v Panathinaikos / Win-Draw-Win / Ajax @ 1.73,1.73 (Win),1.73,3,5.19,O/1945704/0000431/D,Single,1,3,,SB Internet,0
+Lose,24/11/16 17:31,Soccer,Celta Vigo v Standard Liege / Win-Draw-Win / Celta Vigo @ 1.61,1.61 (Win),1.61,3,0,O/1945704/0000430/D,Single,1,3,,SB Internet,0
+Lose,24/11/16 17:31,Soccer,Schalke 04 v Nice / Win-Draw-Win / Draw @ 3.50,3.50 (Win),3.5,3,0,O/1945704/0000429/D,Single,1,3,,SB Internet,0
+Lose,24/11/16 17:31,Soccer,Fiorentina v PAOK / Win-Draw-Win / Fiorentina @ 1.61,1.61 (Win),1.61,3,0,O/1945704/0000428/D,Single,1,3,,SB Internet,0
+Lose,24/11/16 17:31,Soccer,FC Zurich v Villarreal / Win-Draw-Win / Villarreal @ 1.95,1.95 (Win),1.95,3,0,O/1945704/0000427/D,Single,1,3,,SB Internet,0
+Lose,24/11/16 17:31,Soccer,Hapoel Beer Sheva v Inter Milan / Win-Draw-Win / Inter Milan @ 2.50,2.50 (Win),2.5,3,0,O/1945704/0000426/D,Single,1,3,,SB Internet,0
+Lose,24/11/16 17:31,Soccer,Man Utd v Feyenoord / Win-Draw-Win / Draw @ 5.00,5.00 (Win),5,3,0,O/1945704/0000425/D,Single,1,3,,SB Internet,0
+Win,24/11/16 17:31,Soccer,Athletic Bilbao v Sassuolo / Win-Draw-Win / Athletic Bilbao @ 1.44,1.44 (Win),1.44,3,4.32,O/1945704/0000424/D,Single,1,3,,SB Internet,0
+Lose,23/11/16 18:04,Soccer,Multibet (Doubles),1.67,1.67,5,0,O/1945704/0000423/D,Multibet,1,5,,SB Internet,0
+Lose,23/11/16 18:03,Soccer,Ludogorets Razgrad v FC Basel / Win-Draw-Win / FC Basel @ 2.70,2.70 (Win),2.7,3,0,O/1945704/0000422/D,Single,1,3,,SB Internet,0
+Lose,23/11/16 18:03,Soccer,Napoli v Dynamo Kiev / Win-Draw-Win / Napoli @ 1.40,1.40 (Win),1.4,4,0,O/1945704/0000421/D,Single,1,4,,SB Internet,0
+Lose,23/11/16 18:03,Soccer,Borussia Monchengladbach v Man City / Win-Draw-Win / Man City @ 1.75,1.75 (Win),1.75,4,0,O/1945704/0000420/D,Single,1,4,,SB Internet,0
+Win,23/11/16 18:03,Soccer,Atletico Madrid v PSV / Win-Draw-Win / Atletico Madrid @ 1.33,1.33 (Win),1.33,4,5.32,O/1945704/0000419/D,Single,1,4,,SB Internet,0
+Lose,22/11/16 16:43,Soccer,Monaco v Tottenham / Win-Draw-Win / Tottenham @ 2.80,2.80 (Win),2.8,4,0,O/1945704/0000418/D,Single,1,4,,SB Internet,0
+Lose,22/11/16 16:43,Soccer,CSKA Moscow v Bayer Leverkusen / Win-Draw-Win / Bayer Leverkusen @ 2.05,2.05 (Win),2.05,4,0,O/1945704/0000417/D,Single,1,4,,SB Internet,0
+Lose,22/11/16 16:43,Soccer,Borussia Dortmund v Legia Warsaw / Win-Draw-Win / Draw @ 9.00,9.00 (Win),9,2,0,O/1945704/0000416/D,Single,1,2,,SB Internet,0
+Lose,22/11/16 16:43,Soccer,Sporting Lisbon v Real Madrid / Win-Draw-Win / Draw @ 4.20,4.20 (Win),4.2,2,0,O/1945704/0000415/D,Single,1,2,,SB Internet,0
+Lose,22/11/16 16:43,Soccer,Leicester v Club Brugge / To Win to Nil / Leicester @ 2.40,2.40 (Win),2.4,4,0,O/1945704/0000414/D,Single,1,4,,SB Internet,0
+Lose,22/11/16 16:43,Soccer,FC Copenhagen v Porto / Win-Draw-Win / Porto @ 2.40,2.40 (Win),2.4,4,0,O/1945704/0000413/D,Single,1,4,,SB Internet,0
+Lose,19/11/16 23:24,Soccer,AC Milan v Inter Milan / Win-Draw-Win / AC Milan @ 2.70,2.70 (Win),2.7,4,0,O/1945704/0000412/D,Single,1,4,,SB Mobile,0
+Lose,19/11/16 23:24,Soccer,Athletic Bilbao v Villarreal / Win-Draw-Win / Villarreal @ 3.60,3.60 (Win),3.6,4,0,O/1945704/0000411/D,Single,1,4,,SB Mobile,0
+Lose,19/11/16 23:24,Soccer,Atletico Madrid v Real Madrid / Win-Draw-Win / Draw @ 3.10,3.10 (Win),3.1,4,0,O/1945704/0000410/D,Single,1,4,,SB Mobile,0
+Lose,19/11/16 23:24,Soccer,Sunderland v Hull / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,4,0,O/1945704/0000409/D,Single,1,4,,SB Mobile,0
+Lose,19/11/16 23:24,Soccer,Watford v Leicester / Win-Draw-Win / Leicester @ 2.70,2.70 (Win),2.7,4,0,O/1945704/0000408/D,Single,1,4,,SB Mobile,0
+Win,19/11/16 23:24,Soccer,Everton v Swansea / Win-Draw-Win / Draw @ 4.33,4.33 (Win),4.33,4,17.32,O/1945704/0000407/D,Single,1,4,,SB Mobile,0
+Lose,19/11/16 23:24,Soccer,Stoke v Bournemouth / Win-Draw-Win / Stoke @ 2.30,2.30 (Win),2.3,4,0,O/1945704/0000406/D,Single,1,4,,SB Mobile,0
+Lose,19/11/16 23:24,Soccer,Southampton v Liverpool / Win-Draw-Win / Liverpool @ 2.30,2.30 (Win),2.3,4,0,O/1945704/0000405/D,Single,1,4,,SB Mobile,0
+Win,19/11/16 23:24,Soccer,Man Utd v Arsenal / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,4,13.2,O/1945704/0000404/D,Single,1,4,,SB Mobile,0
+Lose,16/11/16 10:32,Soccer,Panama v Mexico / Win-Draw-Win / Mexico @ 1.67,1.67 (Win),1.67,5,0,O/1945704/0000403/D,Single,1,5,,SB Internet,0
+Lose,16/11/16 10:31,Soccer,Chile v Uruguay / Win-Draw-Win / Draw @ 3.20,3.20 (Win),3.2,3,0,O/1945704/0000402/D,Single,1,3,,SB Internet,0
+Win,16/11/16 10:31,Soccer,Peru v Brazil / Win-Draw-Win / Brazil @ 1.57,1.57 (Win),1.57,5,7.85,O/1945704/0000401/D,Single,1,5,,SB Internet,0
+Lose,15/11/16 22:00,Soccer,Bolivia v Paraguay / Win-Draw-Win / Paraguay @ 2.88,2.88 (Win),2.88,4,0,O/1945704/0000400/D,Single,1,4,,SB Mobile,0
+Lose,12/11/16 22:48,Soccer,Austria v Ireland / Win-Draw-Win / Draw @ 3.40,3.40 (Win),3.4,2,0,O/1945704/0000399/D,Single,1,2,,SB Internet,0
+Win,12/11/16 22:48,Soccer,Liechtenstein v Italy / Handicap Betting / Italy (-3.0) @ 2.30,2.30 (Win),2.3,5,11.5,O/1945704/0000398/D,Handicap,1,5,,SB Internet,0
+Win,12/11/16 22:46,Soccer,Multibet (Doubles),1.75,1.75,5,8.75,O/1945704/0000397/D,Multibet,1,5,,SB Internet,0
+Lose,11/11/16 10:08,Soccer,Brazil v Argentina / Win-Draw-Win / Draw @ 3.25,3.25 (Win),3.25,3,0,O/1945704/0000396/D,Single,1,3,,SB Internet,0
+Lose,11/11/16 10:08,Soccer,Venezuela v Bolivia / Win-Draw-Win / Draw @ 3.75,3.75 (Win),3.75,3,0,O/1945704/0000395/D,Single,1,3,,SB Internet,0
+Lose,11/11/16 10:08,Soccer,Paraguay v Peru / Win-Draw-Win / Draw @ 3.10,3.10 (Win),3.1,3,0,O/1945704/0000394/D,Single,1,3,,SB Internet,0
+Lose,09/11/16 22:50,Soccer,Netherlands v Belgium / Win-Draw-Win / Belgium @ 2.50,2.50 (Win),2.5,5,0,O/1945704/0000393/D,Single,1,5,,SB Internet,0
+Lose,09/11/16 13:18,Politics,US Presidential Election 2016 / Next President / Hillary Clinton @ 1.50,1.50 (Win),1.5,93,0,O/1945704/0000392/D,Single,1,93,,SB Internet,0
+Lose,07/11/16 17:37,e-Sports,Multibet (4 folds),2.96,2.96,5,0,O/1945704/0000391/D,Multibet,1,5,,SB Internet,0
+Win,07/11/16 01:44,Soccer,Inter Milan v Crotone / Win-Draw-Win / Inter Milan @ 1.28,1.28 (Win),1.28,5,6.4,O/1945704/0000390/D,Single,1,5,,SB Mobile,0
+Lose,07/11/16 01:44,Soccer,Sevilla v Barcelona / Win-Draw-Win / Draw @ 4.20,4.20 (Win),4.2,2,0,O/1945704/0000389/D,Single,1,2,,SB Mobile,0
+Lose,07/11/16 01:44,Soccer,Celta Vigo v Valencia / Win-Draw-Win / Valencia @ 3.10,3.10 (Win),3.1,2,0,O/1945704/0000388/D,Single,1,2,,SB Mobile,0
+Lose,07/11/16 01:44,Soccer,Leicester v West Brom / Win-Draw-Win / Draw @ 3.40,3.40 (Win),3.4,2,0,O/1945704/0000387/D,Single,1,2,,SB Mobile,0
+Lose,07/11/16 01:44,Soccer,Swansea v Man Utd / Win-Draw-Win / Draw @ 3.75,3.75 (Win),3.75,2,0,O/1945704/0000386/D,Single,1,2,,SB Mobile,0
+Lose,04/11/16 17:17,Soccer,Bournemouth v Sunderland / Win-Draw-Win / Draw @ 3.80,3.80 (Win),3.8,2,0,O/1945704/0000385/D,Single,1,2,,SB Internet,0
+Lose,04/11/16 17:17,Soccer,Burnley v Crystal Palace / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,2,0,O/1945704/0000384/D,Single,1,2,,SB Internet,0
+Win,04/11/16 17:17,Soccer,West Ham v Stoke / Win-Draw-Win / Draw @ 3.60,3.60 (Win),3.6,2,7.2,O/1945704/0000383/D,Single,1,2,,SB Internet,0
+Lose,04/11/16 17:17,Soccer,Chelsea v Everton / Win-Draw-Win / Draw @ 4.00,4.00 (Win),4,2,0,O/1945704/0000382/D,Single,1,2,,SB Internet,0
+Lose,03/11/16 17:29,Soccer,Multibet (Trebles),2.53,2.53,4,0,O/1945704/0000381/D,Multibet,1,4,,SB Internet,0
+Win,03/11/16 17:28,Soccer,Multibet (Doubles),2.54,2.54,4,10.16,O/1945704/0000380/D,Multibet,1,4,,SB Internet,0
+Win,03/11/16 17:27,Soccer,FK Gabala v Saint-Etienne / Win-Draw-Win / Saint-Etienne @ 1.80,1.80 (Win),1.8,3.5,6.3,O/1945704/0000379/D,Single,1,3.5,,SB Internet,0
+Win,03/11/16 17:27,Soccer,Austria Vienna v Roma / Win-Draw-Win / Roma @ 1.57,1.57 (Win),1.57,3.5,5.49,O/1945704/0000378/D,Single,1,3.5,,SB Internet,0
+Lose,03/11/16 17:27,Soccer,Zorya Lugansk v Feyenoord / Win-Draw-Win / Feyenoord @ 2.40,2.40 (Win),2.4,3.5,0,O/1945704/0000377/D,Single,1,3.5,,SB Internet,0
+Lose,03/11/16 17:27,Soccer,Fenerbahce v Man Utd / Win-Draw-Win / Man Utd @ 2.25,2.25 (Win),2.25,3.5,0,O/1945704/0000376/D,Single,1,3.5,,SB Internet,0
+Win,03/11/16 17:27,Soccer,Maccabi Tel Aviv v Az Alkmaar / Win-Draw-Win / Draw @ 3.60,3.60 (Win),3.6,3.5,12.6,O/1945704/0000375/D,Single,1,3.5,,SB Internet,0
+Win,03/11/16 17:27,Soccer,Ajax v Celta Vigo / Win-Draw-Win / Ajax @ 1.91,1.91 (Win),1.91,3.5,6.69,O/1945704/0000374/D,Single,1,3.5,,SB Internet,0
+Lose,02/11/16 17:34,Soccer,Legia Warsaw v Real Madrid / Correct Score / Real Madrid 3 - 0 @ 8.00,8.00 (Win),8,1,0,O/1945704/0000373/D,Single,1,1,,SB Internet,0
+Lose,02/11/16 17:34,Soccer,Legia Warsaw v Real Madrid / Correct Score / Real Madrid 4 - 0 @ 9.50,9.50 (Win),9.5,1,0,O/1945704/0000372/D,Single,1,1,,SB Internet,0
+Lose,02/11/16 17:34,Soccer,Legia Warsaw v Real Madrid / Number of Team Goals / Legia Warsaw to Score No Goals @ 1.83,1.83 (Win),1.83,5,0,O/1945704/0000371/D,Single,1,5,,SB Internet,0
+Win,02/11/16 17:29,Soccer,Porto v Club Brugge / To Win to Nil / Porto @ 2.10,2.10 (Win),2.1,3.5,7.35,O/1945704/0000370/D,Single,1,3.5,,SB Internet,0
+Lose,02/11/16 17:22,Soccer,Multibet (Trebles),1.98,1.98,5,0,O/1945704/0000369/D,Multibet,1,5,,SB Internet,0
+Win,02/11/16 17:20,Soccer,FC Copenhagen v Leicester / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,2,6.6,O/1945704/0000368/D,Single,1,2,,SB Internet,0
+Win,02/11/16 17:20,Soccer,Juventus v Lyon / Win-Draw-Win / Draw @ 5.00,5.00 (Win),5,2,10,O/1945704/0000367/D,Single,1,2,,SB Internet,0
+Lose,02/11/16 17:20,Soccer,Monaco v CSKA Moscow / Win-Draw-Win / Draw @ 3.60,3.60 (Win),3.6,2,0,O/1945704/0000366/D,Single,1,2,,SB Internet,0
+Lose,02/11/16 17:20,Soccer,Tottenham v Bayer Leverkusen / Win-Draw-Win / Draw @ 3.40,3.40 (Win),3.4,2,0,O/1945704/0000365/D,Single,1,2,,SB Internet,0
+Lose,01/11/16 13:08,Soccer,Multibet (Doubles),2.01,2.01,5,0,O/1945704/0000364/D,Multibet,1,5,,SB Internet,0
+Win,01/11/16 13:07,Soccer,Multibet (Doubles),2.08,2.08,5,10.44,O/1945704/0000363/D,Multibet,1,5,,SB Internet,0
+Win,01/11/16 13:06,Soccer,FC Basel v PSG / Win-Draw-Win / PSG @ 1.57,1.57 (Win),1.57,5,7.85,O/1945704/0000362/D,Single,1,5,,SB Internet,0
+Lose,01/11/16 13:06,Soccer,Man City v Barcelona / Win-Draw-Win / Barcelona @ 2.50,2.50 (Win),2.5,5,0,O/1945704/0000361/D,Single,1,5,,SB Internet,0
+Win,28/10/16 17:41,Soccer,Juventus v Napoli / Win-Draw-Win / Juventus @ 1.80,1.80 (Win),1.8,5,9,O/1945704/0000360/D,Single,1,5,,SB Internet,0
+Win,28/10/16 17:37,Soccer,Multibet (Doubles),2.45,2.45,5,12.25,O/1945704/0000359/D,Multibet,1,5,,SB Internet,0
+Win,28/10/16 17:36,Soccer,Lille v PSG / Win-Draw-Win / PSG @ 1.57,1.57 (Win),1.57,5,7.85,O/1945704/0000358/D,Single,1,5,,SB Internet,0
+Lose,28/10/16 17:36,Soccer,Borussia Dortmund v Schalke 04 / Win-Draw-Win / Borussia Dortmund @ 1.50,1.50 (Win),1.5,5,0,O/1945704/0000357/D,Single,1,5,,SB Internet,0
+Win,28/10/16 17:36,Soccer,Crystal Palace v Liverpool / Win-Draw-Win / Liverpool @ 1.73,1.73 (Win),1.73,5,8.65,O/1945704/0000356/D,Single,1,5,,SB Internet,0
+Lose,28/10/16 17:36,Soccer,Crystal Palace v Liverpool / Anytime Goalscorer / C Benteke @ 2.70,2.70 (Win),2.7,2,0,O/1945704/0000355/D,Single,1,2,,SB Internet,0
+Win,28/10/16 17:36,Soccer,Southampton v Chelsea / Win-Draw-Win / Chelsea @ 2.25,2.25 (Win),2.25,5,11.25,O/1945704/0000354/D,Single,1,5,,SB Internet,0
+Win,27/10/16 17:56,Soccer,PEC Zwolle v VVV Venlo / Win-Draw-Win / PEC Zwolle @ 1.72,1.72 (Win),1.72,3,5.16,O/1945704/0000353/D,Single,1,3,,SB Internet,0
+Cashed Out,26/10/16 17:35,Soccer,Chievo v Bologna / Win-Draw-Win / Draw @ 3.10,3.10 (Win),3.1,1,1.92,O/1945704/0000352/D,Single,1,1,,SB Internet,0
+Lose,26/10/16 17:35,Soccer,Man Utd v Man City / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,1,0,O/1945704/0000351/D,Single,1,1,,SB Internet,0
+Lose,26/10/16 17:35,Soccer,Fiorentina v Crotone / Number of Team Goals / Crotone to Score No Goals @ 1.83,1.83 (Win),1.83,2,0,O/1945704/0000350/D,Single,1,2,,SB Internet,0
+Lose,26/10/16 17:35,Soccer,Juventus v Sampdoria / Number of Team Goals / Sampdoria to Score No Goals @ 1.72,1.72 (Win),1.72,2,0,O/1945704/0000349/D,Single,1,2,,SB Internet,0
+Win,26/10/16 17:24,Soccer,FC Heidenheim v VfL Wolfsburg / Win-Draw-Win / VfL Wolfsburg @ 1.80,1.80 (Win),1.8,4,7.2,O/1945704/0000348/D,Single,1,4,,SB Internet,0
+Win,26/10/16 17:24,Soccer,Cultural Leonesa v Real Madrid / Handicap Betting / Real Madrid (-2.0) @ 2.30,2.30 (Win),2.3,5,11.5,O/1945704/0000347/D,Handicap,1,5,,SB Internet,0
+Lose,26/10/16 17:24,Soccer,Cultural Leonesa v Real Madrid / Correct Score / Real Madrid 2 - 0 @ 7.00,7.00 (Win),7,1,0,O/1945704/0000346/D,Single,1,1,,SB Internet,0
+Cashed Out,26/10/16 17:24,Soccer,Inter Milan v Torino / Win-Draw-Win / Inter Milan @ 1.91,1.91 (Win),1.91,2,0.52,O/1945704/0000345/D,Single,1,2,,SB Internet,0
+Lose,25/10/16 18:01,Soccer,Multibet (Doubles),1.88,1.88,5,0,O/1945704/0000344/D,Multibet,1,5,,SB Internet,0
+Win,23/10/16 22:07,Soccer,Feyenoord v Ajax / Win-Draw-Win / Draw @ 3.50,3.50 (Win),3.5,2,7,O/1945704/0000343/D,Single,1,2,,SB Internet,0
+Win,23/10/16 22:07,Soccer,Crotone v Napoli / Win-Draw-Win / Napoli @ 1.33,1.33 (Win),1.33,6,7.98,O/1945704/0000342/D,Single,1,6,,SB Internet,0
+Win,23/10/16 22:07,Soccer,Chelsea v Man Utd / Win-Draw-Win / Chelsea @ 2.25,2.25 (Win),2.25,3,6.75,O/1945704/0000341/D,Single,1,3,,SB Internet,0
+Lose,23/10/16 22:01,Soccer,Multibet (Trebles),3.3,3.3,3,0,O/1945704/0000340/D,Multibet,1,3,,SB Internet,0
+Win,20/10/16 22:48,Soccer,FK Krasnodar v Schalke 04 / Win-Draw-Win / Schalke 04 @ 2.75,2.75 (Win),2.75,3,8.25,O/1945704/0000339/D,Single,1,3,,SB Internet,0
+Lose,20/10/16 22:48,Soccer,Konyaspor v Sporting Braga / Win-Draw-Win / Sporting Braga @ 2.40,2.40 (Win),2.4,3,0,O/1945704/0000338/D,Single,1,3,,SB Internet,0
+Lose,20/10/16 22:48,Soccer,Osmanlispor v Villarreal / Win-Draw-Win / Villarreal @ 2.10,2.10 (Win),2.1,3,0,O/1945704/0000337/D,Single,1,3,,SB Internet,0
+Win,20/10/16 22:48,Soccer,Slovan Liberec v Fiorentina / Win-Draw-Win / Fiorentina @ 1.83,1.83 (Win),1.83,3,5.49,O/1945704/0000336/D,Single,1,3,,SB Internet,0
+Lose,20/10/16 22:48,Soccer,Genk v Athletic Bilbao / Win-Draw-Win / Athletic Bilbao @ 2.00,2.00 (Win),2,3,0,O/1945704/0000335/D,Single,1,3,,SB Internet,0
+Lose,20/10/16 22:40,Soccer,Multibet (Trebles),2.82,2.82,3,0,O/1945704/0000334/D,Multibet,1,3,,SB Internet,0
+Win,19/10/16 18:03,Soccer,Barcelona v Man City / Both Teams To Score / No @ 2.50,2.50 (Win),2.5,4,10,O/1945704/0000333/D,Single,1,4,,SB Internet,0
+Lose,19/10/16 18:01,Soccer,FK Rostov v Atletico Madrid / Handicap Betting / Atletico Madrid (-1.0) @ 2.00,2.00 (Win),2,4,0,O/1945704/0000332/D,Handicap,1,4,,SB Internet,0
+Win,19/10/16 18:01,Soccer,FK Rostov v Atletico Madrid / Anytime Goalscorer / Y Ferreira Carrasco @ 3.25,3.25 (Win),3.25,1,3.25,O/1945704/0000331/D,Single,1,1,,SB Internet,0
+Win,19/10/16 18:01,Soccer,Celtic v Borussia Monchengladbach / Win-Draw-Win / Borussia Monchengladbach @ 2.30,2.30 (Win),2.3,5,11.5,O/1945704/0000330/D,Single,1,5,,SB Internet,0
+Win,15/10/16 21:32,Soccer,Stoke v Sunderland / Win-Draw-Win / Stoke @ 1.91,1.91 (Win),1.91,4,7.64,O/1945704/0000329/D,Single,1,4,,SB Mobile,0
+Lose,15/10/16 21:08,Soccer,Multibet (Trebles),2.99,2.99,4,0,O/1945704/0000328/D,Multibet,1,4,,SB Mobile,0
+Lose,11/10/16 17:26,Soccer,Germany v Northern Ireland / Correct Score / Germany 1 - 0 @ 7.00,7.00 (Win),7,1,0,O/1945704/0000327/D,Single,1,1,,SB Internet,0
+Win,11/10/16 17:26,Soccer,Germany v Northern Ireland / Correct Score / Germany 2 - 0 @ 5.50,5.50 (Win),5.5,1,5.5,O/1945704/0000326/D,Single,1,1,,SB Internet,0
+Lose,11/10/16 17:26,Soccer,Germany v Northern Ireland / Correct Score / Germany 2 - 1 @ 10.00,10.00 (Win),10,1,0,O/1945704/0000325/D,Single,1,1,,SB Internet,0
+Win,11/10/16 17:20,Soccer,Colombia v Uruguay / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,2,6.6,O/1945704/0000324/D,Single,1,2,,SB Internet,0
+Win,11/10/16 17:20,Soccer,Multibet (Doubles),1.9,1.9,4,7.62,O/1945704/0000323/D,Multibet,1,4,,SB Internet,0
+Lose,11/10/16 17:18,Soccer,Multibet (Doubles),1.98,1.98,4,0,O/1945704/0000322/D,Multibet,1,4,,SB Internet,0
+Lose,10/10/16 17:34,Soccer,Multibet (Doubles),1.65,1.65,4,0,O/1945704/0000321/D,Multibet,1,4,,SB Internet,0
+Lose,10/10/16 17:33,Soccer,Netherlands v France / Win-Draw-Win / Draw @ 3.20,3.20 (Win),3.2,2,0,O/1945704/0000320/D,Single,1,2,,SB Internet,0
+Win,10/10/16 17:33,Soccer,Latvia v Hungary / Win-Draw-Win / Hungary @ 1.95,1.95 (Win),1.95,2,3.9,O/1945704/0000319/D,Single,1,2,,SB Internet,0
+Win,10/10/16 17:33,Soccer,Faroe Islands v Portugal / Winning Margin / Portugal to win by 4 or more goals @ 3.75,3.75 (Win),3.75,2,7.5,O/1945704/0000318/D,Single,1,2,,SB Internet,0
+Win,10/10/16 17:33,Soccer,Faroe Islands v Portugal / Lead at 10-20-30-60 Minutes / Draw at 10 minutes @ 1.20,1.20 (Win),1.2,2,2.4,O/1945704/0000317/D,Single,1,2,,SB Internet,0
+Lose,10/10/16 17:33,Soccer,Faroe Islands v Portugal / To Score a Hat-Trick / C Ronaldo @ 6.00,6.00 (Win),6,1,0,O/1945704/0000316/D,Single,1,1,,SB Internet,0
+Lose,09/10/16 21:21,Soccer,Iceland v Turkey / Win-Draw-Win / Draw @ 3.20,3.20 (Win),3.2,2,0,O/1945704/0000315/D,Single,1,2,,SB Internet,0
+Lose,09/10/16 21:21,Soccer,Serbia v Austria / Win-Draw-Win / Draw @ 3.20,3.20 (Win),3.2,2,0,O/1945704/0000314/D,Single,1,2,,SB Internet,0
+Lose,09/10/16 21:20,Soccer,Multibet (Trebles),2.12,2.12,4,0,O/1945704/0000313/D,Multibet,1,4,,SB Internet,0
+Win,09/10/16 21:20,Soccer,Multibet (Doubles),1.66,1.66,4,6.65,O/1945704/0000312/D,Multibet,1,4,,SB Internet,0
+Win,07/10/16 17:35,Soccer,Luxembourg v Sweden / Win-Draw-Win / Sweden @ 1.25,1.25 (Win),1.25,2,2.5,O/1945704/0000311/D,Single,1,2,,SB Internet,0
+Win,07/10/16 17:35,Soccer,Hungary v Switzerland / Win-Draw-Win / Switzerland @ 2.25,2.25 (Win),2.25,2,4.5,O/1945704/0000310/D,Single,1,2,,SB Internet,0
+Lose,07/10/16 17:35,Soccer,Latvia v Faroe Islands / Win-Draw-Win / Latvia @ 1.53,1.53 (Win),1.53,2,0,O/1945704/0000309/D,Single,1,2,,SB Internet,0
+Win,07/10/16 17:35,Soccer,Belgium v Bosnia-Herzegovina / Win-Draw-Win / Belgium @ 1.44,1.44 (Win),1.44,2,2.88,O/1945704/0000308/D,Single,1,2,,SB Internet,0
+Lose,07/10/16 17:35,Soccer,Azerbaijan v Norway / Win-Draw-Win / Norway @ 1.83,1.83 (Win),1.83,2,0,O/1945704/0000307/D,Single,1,2,,SB Internet,0
+Win,07/10/16 17:35,Soccer,Poland v Denmark / Win-Draw-Win / Poland @ 2.00,2.00 (Win),2,2,4,O/1945704/0000306/D,Single,1,2,,SB Internet,0
+Lose,07/10/16 17:35,Soccer,Scotland v Lithuania / Win-Draw-Win / Scotland @ 1.44,1.44 (Win),1.44,2,0,O/1945704/0000305/D,Single,1,2,,SB Internet,0
+Win,07/10/16 17:35,Soccer,Moldova v Ireland / Win-Draw-Win / Ireland @ 1.50,1.50 (Win),1.5,2,3,O/1945704/0000304/D,Single,1,2,,SB Internet,0
+Lose,07/10/16 17:26,Soccer,Multibet (5 folds),9.25,9.25,4,0,O/1945704/0000303/D,Multibet,1,4,,SB Internet,0
+Lose,07/10/16 09:35,Soccer,Peru v Argentina / Win-Draw-Win / Argentina @ 1.83,1.83 (Win),1.83,6,0,O/1945704/0000302/D,Single,1,6,,SB Internet,0
+Win,06/10/16 16:19,Soccer,Austria v Wales / Win-Draw-Win / Draw @ 3.10,3.10 (Win),3.1,2,6.2,O/1945704/0000301/D,Single,1,2,,SB Internet,0
+Lose,06/10/16 16:19,Soccer,Multibet (Doubles),4.29,4.29,5,0,O/1945704/0000300/D,Multibet,1,5,,SB Internet,0
+Win,06/10/16 16:17,Soccer,Multibet (Trebles),2.48,2.48,5,12.44,O/1945704/0000299/D,Multibet,1,5,,SB Internet,0
+Win,02/10/16 22:37,Soccer,Cagliari v Crotone / Win-Draw-Win / Cagliari @ 1.53,1.53 (Win),1.53,4,6.12,O/1945704/0000298/D,Single,1,4,,SB Internet,0
+Lose,01/10/16 22:27,Soccer,Watford v Bournemouth / Win-Draw-Win / Watford @ 2.40,2.40 (Win),2.4,3,0,O/1945704/0000297/D,Single,1,3,,SB Mobile,0
+Lose,01/10/16 22:27,Soccer,Sunderland v West Brom / Win-Draw-Win / West Brom @ 3.10,3.10 (Win),3.1,3,0,O/1945704/0000296/D,Single,1,3,,SB Mobile,0
+Win,01/10/16 22:27,Soccer,Hull v Chelsea / Win-Draw-Win / Chelsea @ 1.50,1.50 (Win),1.5,3,4.5,O/1945704/0000295/D,Single,1,3,,SB Mobile,0
+Win,01/10/16 22:27,Soccer,West Ham v Middlesbrough / Win-Draw-Win / Draw @ 3.40,3.40 (Win),3.4,3,10.2,O/1945704/0000294/D,Single,1,3,,SB Mobile,0
+Lose,30/09/16 04:25,Soccer,Multibet (Doubles),3.36,3.36,3,0,O/1945704/0000293/D,Multibet,1,3,,SB Internet,0
+Win,30/09/16 04:22,Soccer,Multibet (Doubles),1.33,1.33,5,6.67,O/1945704/0000292/D,Multibet,1,5,,SB Internet,0
+Lose,28/09/16 16:49,Soccer,Celtic v Man City / Win & Score Combo / S Aguero to score in 90 minutes and Man City to win the match @ 1.91,1.91 (Win),1.91,3,0,O/1945704/0000291/D,Single,1,3,,SB Internet,0
+Lose,28/09/16 16:49,Soccer,Celtic v Man City / Who Will Keep a Clean Sheet? / Man City @ 2.20,2.20 (Win),2.2,3,0,O/1945704/0000290/D,Single,1,3,,SB Internet,0
+Lose,28/09/16 16:42,Soccer,Multibet (Trebles),2.85,2.85,5,0,O/1945704/0000289/D,Multibet,1,5,,SB Internet,0
+Win,28/09/16 16:42,Soccer,Napoli v Benfica / Win-Draw-Win / Napoli @ 1.57,1.57 (Win),1.57,5,7.85,O/1945704/0000288/D,Single,1,5,,SB Internet,0
+Win,28/09/16 16:41,Soccer,Besiktas v Dynamo Kiev / Win-Draw-Win / Draw @ 3.20,3.20 (Win),3.2,2,6.4,O/1945704/0000287/D,Single,1,2,,SB Internet,0
+Lose,28/09/16 16:41,Soccer,Atletico Madrid v Bayern Munich / Win-Draw-Win / Draw @ 3.20,3.20 (Win),3.2,2,0,O/1945704/0000286/D,Single,1,2,,SB Internet,0
+Win,27/09/16 17:39,Soccer,Multibet (Trebles),2.01,2.01,5,10.08,O/1945704/0000285/D,Multibet,1,5,,SB Internet,0
+Lose,27/09/16 17:36,Soccer,CSKA Moscow v Tottenham / Win-Draw-Win / Draw @ 3.25,3.25 (Win),3.25,2,0,O/1945704/0000284/D,Single,1,2,,SB Internet,0
+Win,27/09/16 17:36,Soccer,Monaco v Bayer Leverkusen / Win-Draw-Win / Draw @ 3.40,3.40 (Win),3.4,2,6.8,O/1945704/0000283/D,Single,1,2,,SB Internet,0
+Lose,27/09/16 17:36,Soccer,Sevilla v Lyon / Win-Draw-Win / Draw @ 3.60,3.60 (Win),3.6,2,0,O/1945704/0000282/D,Single,1,2,,SB Internet,0
+Lose,27/09/16 17:36,Soccer,Leicester v Porto / Win-Draw-Win / Draw @ 3.40,3.40 (Win),3.4,2,0,O/1945704/0000281/D,Single,1,2,,SB Internet,0
+Win,27/09/16 17:36,Soccer,Borussia Dortmund v Real Madrid / Win-Draw-Win / Draw @ 3.60,3.60 (Win),3.6,2,7.2,O/1945704/0000280/D,Single,1,2,,SB Internet,0
+Lose,27/09/16 17:36,Soccer,Leicester v Porto / Win-Draw-Win / Porto @ 3.00,3.00 (Win),3,2,0,O/1945704/0000279/D,Single,1,2,,SB Internet,0
+Lose,23/09/16 18:01,Soccer,Multibet (Doubles),1.58,1.58,5,0,O/1945704/0000278/D,Multibet,1,5,,SB Internet,0
+Lose,23/09/16 18:00,Soccer,Borussia Dortmund v Freiburg / Win-Draw-Win / Draw @ 8.00,8.00 (Win),8,1,0,O/1945704/0000277/D,Single,1,1,,SB Internet,0
+Lose,23/09/16 18:00,Soccer,Borussia Dortmund v Freiburg / Win-Draw-Win / Freiburg @ 13.00,13.00 (Win),13,1,0,O/1945704/0000276/D,Single,1,1,,SB Internet,0
+Lose,23/09/16 18:00,Soccer,Hamburg v Bayern Munich / Win-Draw-Win / Hamburg @ 12.00,12.00 (Win),12,1,0,O/1945704/0000275/D,Single,1,1,,SB Internet,0
+Lose,23/09/16 18:00,Soccer,Hamburg v Bayern Munich / Win-Draw-Win / Draw @ 7.00,7.00 (Win),7,1,0,O/1945704/0000274/D,Single,1,1,,SB Internet,0
+Lose,23/09/16 17:53,Soccer,Swansea v Man City / Win-Draw-Win / Swansea @ 7.50,7.50 (Win),7.5,2.5,0,O/1945704/0000273/D,Single,1,2.5,,SB Internet,0
+Lose,23/09/16 17:53,Soccer,Swansea v Man City / Win-Draw-Win / Draw @ 5.00,5.00 (Win),5,2.5,0,O/1945704/0000272/D,Single,1,2.5,,SB Internet,0
+Lose,23/09/16 17:53,Soccer,Stoke v West Brom / Win-Draw-Win / West Brom @ 3.20,3.20 (Win),3.2,5,0,O/1945704/0000271/D,Single,1,5,,SB Internet,0
+Lose,23/09/16 17:53,Soccer,Bournemouth v Everton / Win-Draw-Win / Everton @ 2.20,2.20 (Win),2.2,5,0,O/1945704/0000270/D,Single,1,5,,SB Internet,0
+Lose,23/09/16 17:53,Soccer,Sunderland v Crystal Palace / Win-Draw-Win / Draw @ 3.20,3.20 (Win),3.2,5,0,O/1945704/0000269/D,Single,1,5,,SB Internet,0
+Lose,23/09/16 17:53,Soccer,Arsenal v Chelsea / Win-Draw-Win / Chelsea @ 3.10,3.10 (Win),3.1,5,0,O/1945704/0000268/D,Single,1,5,,SB Internet,0
+Win,21/09/16 17:17,Soccer,Multibet (4 folds),3.1,3.1,5,15.53,O/1945704/0000267/D,Multibet,1,5,,SB Internet,0
+Win,21/09/16 17:13,Soccer,Empoli v Inter Milan / Win-Draw-Win / Inter Milan @ 1.91,1.91 (Win),1.91,5,9.55,O/1945704/0000266/D,Single,1,5,,SB Internet,0
+Lose,21/09/16 17:13,Soccer,Barcelona v Atletico Madrid / Win-Draw-Win / Barcelona @ 1.61,1.61 (Win),1.61,5,0,O/1945704/0000265/D,Single,1,5,,SB Internet,0
+Lose,20/09/16 17:05,Soccer,VfL Wolfsburg v Borussia Dortmund / Double Chance / VfL Wolfsburg And Draw @ 2.00,2.00 (Win),2,5,0,O/1945704/0000264/D,Single,1,5,,SB Internet,0
+Cashed Out,20/09/16 17:03,Soccer,AC Milan v Lazio / Win-Draw-Win / Lazio @ 3.50,3.50 (Win),3.5,5,0.01,O/1945704/0000263/D,Single,1,5,,SB Internet,0
+Lose,20/09/16 17:03,Soccer,Leicester v Chelsea / Win-Draw-Win / Chelsea @ 2.05,2.05 (Win),2.05,5,0,O/1945704/0000262/D,Single,1,5,,SB Internet,0
+Win,20/09/16 17:03,Soccer,Sevilla v Betis / Win-Draw-Win / Sevilla @ 1.50,1.50 (Win),1.5,5,7.5,O/1945704/0000261/D,Single,1,5,,SB Internet,0
+Lose,17/09/16 23:26,Soccer,Leicester v Burnley / Draw No Bet / Burnley @ 5.40,5.40 (Win),5.4,5,0,O/1945704/0000260/D,Single,1,5,,SB Internet,0
+Win,17/09/16 23:26,Soccer,Crystal Palace v Stoke / Win-Draw-Win / Crystal Palace @ 2.00,2.00 (Win),2,5,10,O/1945704/0000259/D,Single,1,5,,SB Internet,0
+Lose,17/09/16 23:26,Soccer,West Brom v West Ham / Win-Draw-Win / West Ham @ 2.80,2.80 (Win),2.8,5,0,O/1945704/0000258/D,Single,1,5,,SB Internet,0
+Lose,17/09/16 23:26,Soccer,Southampton v Swansea / Win-Draw-Win / Draw @ 3.60,3.60 (Win),3.6,5,0,O/1945704/0000257/D,Single,1,5,,SB Internet,0
+Win,15/09/16 22:59,Soccer,Anderlecht v FK Gabala / Win-Draw-Win / Anderlecht @ 1.45,1.45 (Win),1.45,5,7.25,O/1945704/0000256/D,Single,1,5,,SB Mobile,0
+Lose,15/09/16 22:59,Soccer,Feyenoord v Man Utd / Win-Draw-Win / Man Utd @ 1.95,1.95 (Win),1.95,5,0,O/1945704/0000255/D,Single,1,5,,SB Mobile,0
+Lose,14/09/16 17:11,Soccer,Juventus v Sevilla / Anytime Goalscorer / G Higuain @ 1.91,1.91 (Win),1.91,5,0,O/1945704/0000254/D,Single,1,5,,SB Internet,0
+Win,14/09/16 17:11,Soccer,Legia Warsaw v Borussia Dortmund / Anytime Goalscorer / PE Aubameyang @ 1.57,1.57 (Win),1.57,3,4.71,O/1945704/0000253/D,Single,1,3,,SB Internet,0
+Win,14/09/16 17:11,Soccer,Real Madrid v Sporting Lisbon / Anytime Goalscorer / C Ronaldo @ 1.33,1.33 (Win),1.33,3,3.99,O/1945704/0000252/D,Single,1,3,,SB Internet,0
+Lose,14/09/16 17:11,Soccer,Porto v FC Copenhagen / Win-Draw-Win / Porto @ 1.50,1.50 (Win),1.5,5,0,O/1945704/0000251/D,Single,1,5,,SB Internet,0
+Lose,14/09/16 17:11,Soccer,Real Madrid v Sporting Lisbon / Winning Margin / Real Madrid to win by exactly 2 goals @ 4.00,4.00 (Win),4,2.5,0,O/1945704/0000250/D,Single,1,2.5,,SB Internet,0
+Lose,14/09/16 17:11,Soccer,Real Madrid v Sporting Lisbon / Winning Margin / Real Madrid to win by exactly 3 goals @ 5.00,5.00 (Win),5,2.5,0,O/1945704/0000249/D,Single,1,2.5,,SB Internet,0
+Win,13/09/16 17:52,Soccer,Dynamo Kiev v Napoli / Draw No Bet / Napoli @ 1.63,1.63 (Win),1.63,1,1.63,O/1945704/0000248/D,Single,1,1,,SB Internet,0
+Win,13/09/16 17:49,Soccer,Bayern Munich v FK Rostov / To Win to Nil / Bayern Munich @ 1.57,1.57 (Win),1.57,5,7.85,O/1945704/0000247/D,Single,1,5,,SB Internet,0
+Win,13/09/16 17:48,Soccer,Barcelona v Celtic / To Win to Nil / Barcelona @ 1.57,1.57 (Win),1.57,5,7.85,O/1945704/0000246/D,Single,1,5,,SB Internet,0
+Lose,09/09/16 17:30,Soccer,Multibet (Doubles),2.03,2.03,5,0,O/1945704/0000245/D,Multibet,1,5,,SB Internet,0
+Lose,09/09/16 17:29,Soccer,Man Utd v Man City / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,5,0,O/1945704/0000244/D,Single,1,5,,SB Internet,0
+Win,09/09/16 17:29,Soccer,Arsenal v Southampton / Win-Draw-Win / Arsenal @ 1.57,1.57 (Win),1.57,5,7.85,O/1945704/0000243/D,Single,1,5,,SB Internet,0
+Lose,09/09/16 17:29,Soccer,Swansea v Chelsea / Win-Draw-Win / Chelsea @ 1.60,1.60 (Win),1.6,5,0,O/1945704/0000242/D,Single,1,5,,SB Internet,0
+Win,09/09/16 17:29,Soccer,Liverpool v Leicester / Win-Draw-Win / Liverpool @ 1.67,1.67 (Win),1.67,5,8.35,O/1945704/0000241/D,Single,1,5,,SB Internet,0
+Win,09/09/16 17:29,Soccer,Celta Vigo v Atletico Madrid / Win-Draw-Win / Atletico Madrid @ 1.72,1.72 (Win),1.72,5,8.6,O/1945704/0000240/D,Single,1,5,,SB Internet,0
+Lose,06/09/16 18:02,Soccer,Multibet (4 folds),2.58,2.58,5,0,O/1945704/0000239/D,Multibet,1,5,,SB Internet,0
+Lose,06/09/16 17:55,Soccer,Multibet (Doubles),1.52,1.52,10,0,O/1945704/0000238/D,Multibet,1,10,,SB Internet,0
+Lose,05/09/16 16:09,Soccer,Multibet (Trebles),3.13,3.13,5,0,O/1945704/0000237/D,Multibet,1,5,,SB Internet,0
+Lose,02/09/16 17:07,Soccer,Multibet (5 folds),3.87,3.87,5,0,O/1945704/0000236/D,Multibet,1,5,,SB Internet,0
+Win,26/08/16 17:28,Soccer,Multibet (4 folds),4.28,4.28,3,12.85,O/1945704/0000235/D,Multibet,1,3,,SB Internet,0
+Lose,26/08/16 17:25,Soccer,Multibet (Trebles),2.64,2.64,5,0,O/1945704/0000234/D,Multibet,1,5,,SB Internet,0
+Win,26/08/16 17:24,Soccer,Multibet (Doubles),1.93,1.93,5,9.68,O/1945704/0000233/D,Multibet,1,5,,SB Internet,0
+Lose,26/08/16 17:23,Soccer,Multibet (Doubles),3.5,3.5,3,0,O/1945704/0000232/D,Multibet,1,3,,SB Internet,0
+Lose,26/08/16 17:22,Soccer,Everton v Stoke / Double Chance / Stoke And Draw @ 2.10,2.10 (Win),2.1,5,0,O/1945704/0000231/D,Single,1,5,,SB Internet,0
+Win,26/08/16 17:20,Soccer,Tottenham v Liverpool / Win-Draw-Win / Draw @ 3.40,3.40 (Win),3.4,5,17,O/1945704/0000230/D,Single,1,5,,SB Internet,0
+Win,26/08/16 17:17,Pageant,Miss Universe Australia Final / Outright Winner / Caris Tiivel @ 3.50,3.50 (Win),3.5,3,7.5,O/1945704/0000229/D,Single,1,3,,SB Internet,3
+Lose,12/08/16 17:04,Soccer,Bournemouth v Man Utd / First Goalscorer / Z Ibrahimovic @ 4.20,4.20 (Win),4.2,3,0,O/1945704/0000228/D,Single,1,3,,SB Internet,0
+Win,12/08/16 17:00,Soccer,Multibet (Doubles),2.08,2.08,5,10.4,O/1945704/0000227/D,Multibet,1,5,,SB Internet,0
+Lose,12/08/16 16:55,Soccer,Multibet (Doubles),3.41,3.41,5,0,O/1945704/0000226/D,Multibet,1,5,,SB Internet,0
+Lose,25/06/16 23:54,Soccer,Multibet (Doubles),5.6,5.6,2,0,O/1945704/0000225/D,Multibet,1,2,,SB Mobile,0
+Win,25/06/16 23:53,Soccer,Croatia v Portugal / Over/Under 2.5 Goals / Under 2.5 Goals @ 1.45,1.45 (Win),1.45,5,7.25,O/1945704/0000224/D,Single,1,5,,SB Mobile,0
+Lose,16/06/16 17:38,Soccer,Italy v Sweden / Anytime Goalscorer / G Pelle @ 2.30,2.30 (Win),2.3,5,0,O/1945704/0000223/D,Single,1,5,,SB Internet,0
+Lose,16/06/16 17:38,Soccer,Germany v Poland / Anytime Goalscorer / T Muller @ 2.20,2.20 (Win),2.2,5,0,O/1945704/0000222/D,Single,1,5,,SB Internet,0
+Win,16/06/16 17:34,Soccer,Italy v Sweden / Winning Margin / Italy to win by exactly 1 goal @ 3.25,3.25 (Win),3.25,2,6.5,O/1945704/0000221/D,Single,1,2,,SB Internet,0
+Lose,16/06/16 17:31,Soccer,Multibet (Doubles),2.87,2.87,5,0,O/1945704/0000220/D,Multibet,1,5,,SB Internet,0
+Lose,10/06/16 17:42,Soccer,France v Romania / Player To Score Winning Goal / O Giroud @ 10.00,10.00 (Win),10,1,0,O/1945704/0000219/D,Single,1,1,,SB Internet,0
+Lose,10/06/16 17:42,Soccer,France v Romania / Player To Score Winning Goal / A Griezmann @ 11.00,11.00 (Win),11,1,0,O/1945704/0000218/D,Single,1,1,,SB Internet,0
+Lose,10/06/16 17:42,Soccer,France v Romania / Player To Score Winning Goal / A Martial @ 12.00,12.00 (Win),12,1,0,O/1945704/0000217/D,Single,1,1,,SB Internet,0
+Win,10/06/16 17:42,Soccer,France v Romania / Player To Score Winning Goal / D Payet @ 15.00,15.00 (Win),15,1,15,O/1945704/0000216/D,Single,1,1,,SB Internet,0
+Lose,10/06/16 17:42,Soccer,France v Romania / Player To Score Winning Goal / P Pogba @ 17.00,17.00 (Win),17,1,0,O/1945704/0000215/D,Single,1,1,,SB Internet,0
+Lose,10/06/16 17:36,International Football Outrights,Top Scoring Midfielder / Euro 2016 Specials / K De Bruyne @ 4.00,4.00 (Win),4,3,0,O/1945704/0000214/D,Single,1,3,,SB Internet,0
+Win,10/06/16 17:36,International Football Outrights,Top Scoring Midfielder / Euro 2016 Specials / P Pogba @ 6.00,6.00 (Win),6,3,6,O/1945704/0000213/D,Single,1,3,,SB Internet,0
+Win,10/06/16 17:34,International Football Outrights,To Reach The Semi-Final / To Reach Semi-Finals / Germany @ 1.83,1.83 (Win),1.83,5,9.15,O/1945704/0000212/D,Single,1,5,,SB Internet,0
+Win,10/06/16 17:34,International Football Outrights,To Reach The Semi-Final / To Reach Semi-Finals / France @ 1.57,1.57 (Win),1.57,5,7.85,O/1945704/0000211/D,Single,1,5,,SB Internet,0
+Lose,10/06/16 17:34,International Football Outrights,To Reach The Semi-Final / To Reach Semi-Finals / Spain @ 2.00,2.00 (Win),2,5,0,O/1945704/0000210/D,Single,1,5,,SB Internet,0
+Lose,10/06/16 17:31,International Football Outrights,Lowest Scoring Team / Lowest Scoring Team / Albania @ 7.00,7.00 (Win),7,5,0,O/1945704/0000209/D,Single,1,5,,SB Internet,0
+Lose,10/06/16 17:31,International Football Outrights,Lowest Scoring Team / Lowest Scoring Team / Northern Ireland @ 7.00,7.00 (Win),7,5,0,O/1945704/0000208/D,Single,1,5,,SB Internet,0
+Lose,10/06/16 17:31,International Football Outrights,Lowest Scoring Team / Lowest Scoring Team / Hungary @ 8.00,8.00 (Win),8,5,0,O/1945704/0000207/D,Single,1,5,,SB Internet,0
+Lose,10/06/16 17:31,International Football Outrights,Lowest Scoring Team / Lowest Scoring Team / Romania @ 9.50,9.50 (Win),9.5,5,0,O/1945704/0000206/D,Single,1,5,,SB Internet,0
+Lose,10/06/16 17:25,International Football Outrights,Multibet (5 folds),3.68,3.68,5,0,O/1945704/0000205/D,Multibet,1,5,,SB Internet,0
+Lose,10/06/16 17:22,International Football Outrights,Multibet (Trebles),2.61,2.61,5,0,O/1945704/0000204/D,Multibet,1,5,,SB Internet,0
+Win,10/06/16 17:22,Soccer,Multibet (Trebles),3.05,3.05,5,15.26,O/1945704/0000203/D,Multibet,1,5,,SB Internet,0
+Lose,09/06/16 16:34,International Football Outrights,Euro 2016 Top Goalscorer / Top Goalscorer / A Morata (Spain) @ 19.00,19.00 (Win),19,3,0,O/1945704/0000202/D,Single,1,3,,SB Mobile,0
+Lose,09/06/16 16:34,International Football Outrights,Euro 2016 Top Goalscorer / Top Goalscorer / O Giroud (France) @ 15.00,15.00 (Win),15,3,0,O/1945704/0000201/D,Single,1,3,,SB Mobile,0
+Win,09/06/16 16:34,International Football Outrights,Euro 2016 Top Goalscorer / Top Goalscorer / A Griezmann (France) @ 10.00,10.00 (Win),10,3,30,O/1945704/0000200/D,Single,1,3,,SB Mobile,0
+Lose,09/06/16 16:34,International Football Outrights,Euro 2016 Top Goalscorer / Top Goalscorer / T Muller (Germany) @ 8.00,8.00 (Win),8,3,0,O/1945704/0000199/D,Single,1,3,,SB Mobile,0
+Lose,09/06/16 16:34,International Football Outrights,Euro 2016 Top Goalscorer / Top Goalscorer / C Ronaldo (Portugal) @ 8.00,8.00 (Win),8,3,0,O/1945704/0000198/D,Single,1,3,,SB Mobile,0
+Lose,20/05/16 17:04,Soccer,Crystal Palace v Man Utd / Win-Draw-Win / Man Utd @ 1.75,1.75 (Win),1.75,6.79,0,O/1945704/0000197/D,Single,1,6.79,,SB Internet,0
+Lose,20/05/16 16:49,Soccer,Crystal Palace v Man Utd / Timecast / Man Utd to Score the First Goal after minute 31 @ 3.06,3.06 (Win),3.06,5,0,O/1945704/0000196/D,Single,1,5,,SB Internet,0
+Lose,20/05/16 16:45,Soccer,Crystal Palace v Man Utd / First Goalscorer / A Martial @ 6.00,6.00 (Win),6,2,0,O/1945704/0000195/D,Single,1,2,,SB Internet,0
+Lose,20/05/16 16:45,Soccer,Crystal Palace v Man Utd / First Goalscorer / M Rashford @ 6.00,6.00 (Win),6,2,0,O/1945704/0000194/D,Single,1,2,,SB Internet,0
+Lose,20/05/16 16:42,Soccer,Bayern Munich v Borussia Dortmund / Win-Draw-Win / Bayern Munich @ 1.95,1.95 (Win),1.95,5,0,O/1945704/0000193/D,Single,1,5,,SB Internet,0
+Lose,20/05/16 16:41,Soccer,AC Milan v Juventus / Win-Draw-Win / Juventus @ 1.61,1.61 (Win),1.61,10,0,O/1945704/0000192/D,Single,1,10,,SB Internet,0
+Lose,20/05/16 16:40,Soccer,Real Madrid v Atletico Madrid / Win-Draw-Win(90 Min Result) / Real Madrid @ 2.50,2.50 (Win),2.5,7,0,O/1945704/0000191/D,Single,1,7,,SB Internet,0
+Win,20/05/16 16:40,Soccer,Real Madrid v Atletico Madrid / Win-Draw-Win(90 Min Result) / Draw @ 3.20,3.20 (Win),3.2,7,22.4,O/1945704/0000190/D,Single,1,7,,SB Internet,0
+Lose,18/05/16 16:46,Soccer,Liverpool v Sevilla / Red Card Markets / A red card in the match @ 4.20,4.20 (Win),4.2,5,0,O/1945704/0000189/D,Single,1,5,,SB Internet,0
+Lose,18/05/16 16:45,Soccer,Liverpool v Sevilla / Time of First Booking / Up to and Including the 28th minute @ 1.87,1.87 (Win),1.87,5,0,O/1945704/0000188/D,Single,1,5,,SB Internet,0
+Lose,18/05/16 16:40,Soccer,Liverpool v Sevilla / Win-Draw-Win / Liverpool @ 2.40,2.40 (Win),2.4,5,0,O/1945704/0000187/D,Single,1,5,,SB Internet,0
+Lose,13/05/16 15:44,Football Specials,O Giroud Vs Aston Villa / Player Vs Team WDW / Draw @ 2.00,2.00 (Win),2,5,0,O/1945704/0000186/D,Single,1,5,,SB Internet,0
+Lose,13/05/16 15:43,Football Specials,L Messi Vs Granada / Player Vs Team WDW / L Messi @ 2.10,2.10 (Win),2.1,5,0,O/1945704/0000185/D,Single,1,5,,SB Internet,0
+Win,13/05/16 15:41,Football Specials,FIFA Ballon D'or Winner 2016 / Ballon d'or Specials / C Ronaldo @ 2.50,2.50 (Win),2.5,5,12.5,O/1945704/0000184/D,Single,1,5,,SB Internet,0
+Win,13/05/16 15:36,European Outrights,Barcelona Multiple Trophies 2015-16 / Multiple Trophies / La Liga & Copa Del Rey @ 1.26,1.26 (Win),1.26,5,6.3,O/1945704/0000183/D,Single,1,5,,SB Internet,0
+Lose,13/05/16 15:35,European Outrights,Real Madrid Multiple Trophies 2015-16 / Multiple Trophies / No Trophies @ 2.11,2.11 (Win),2.11,5,0,O/1945704/0000182/D,Single,1,5,,SB Internet,0
+Lose,13/05/16 15:31,Soccer,Multibet (Doubles),2.04,2.04,5,0,O/1945704/0000181/D,Multibet,1,5,,SB Internet,0
+Lose,06/05/16 16:14,Soccer,Multibet (Doubles),8.7,8.7,5,0,O/1945704/0000180/D,Multibet,1,5,,SB Internet,0
+Lose,06/05/16 16:06,Soccer,Multibet (Doubles),6.79,6.79,5,0,O/1945704/0000179/D,Multibet,1,5,,SB Internet,0
+Win,29/04/16 16:33,Soccer,Stoke v Sunderland / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,5,16.5,O/1945704/0000178/D,Single,1,5,,SB Internet,0
+Lose,29/04/16 16:33,Soccer,Newcastle v Crystal Palace / Win-Draw-Win / Draw @ 3.60,3.60 (Win),3.6,5,0,O/1945704/0000177/D,Single,1,5,,SB Internet,0
+Lose,29/04/16 16:33,Soccer,Everton v Bournemouth / Win-Draw-Win / Draw @ 3.75,3.75 (Win),3.75,5,0,O/1945704/0000176/D,Single,1,5,,SB Internet,0
+Lose,29/04/16 16:33,Soccer,Watford v Aston Villa / Win-Draw-Win / Draw @ 3.75,3.75 (Win),3.75,5,0,O/1945704/0000175/D,Single,1,5,,SB Internet,0
+Lose,29/04/16 16:33,Soccer,West Brom v West Ham / Win-Draw-Win / Draw @ 3.40,3.40 (Win),3.4,5,0,O/1945704/0000174/D,Single,1,5,,SB Internet,0
+Win,29/04/16 16:33,Soccer,Arsenal v Norwich / Win-Draw-Win / Arsenal @ 1.29,1.29 (Win),1.29,5,6.45,O/1945704/0000173/D,Single,1,5,,SB Internet,0
+Lose,29/04/16 16:33,Soccer,Swansea v Liverpool / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,5,0,O/1945704/0000172/D,Single,1,5,,SB Internet,0
+Lose,27/04/16 10:03,Soccer,Atletico Madrid v Bayern Munich / Win-Draw-Win / Draw @ 3.20,3.20 (Win),3.2,5,0,O/1945704/0000171/D,Single,1,5,,SB Internet,0
+Lose,27/04/16 10:03,Soccer,Villarreal v Liverpool / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,5,0,O/1945704/0000170/D,Single,1,5,,SB Internet,0
+Win,27/04/16 10:03,Soccer,Shakhtar Donetsk v Sevilla / Win-Draw-Win / Draw @ 3.40,3.40 (Win),3.4,5,17,O/1945704/0000169/D,Single,1,5,,SB Internet,0
+Win,22/04/16 18:46,Soccer,Multibet (Trebles),4.88,4.88,5,24.42,O/1945704/0000168/D,Multibet,1,5,,SB Internet,0
+Lose,20/04/16 17:10,Soccer,West Ham v Watford / Win-Draw-Win / Draw @ 4.10,4.10 (Win),4.1,5,0,O/1945704/0000167/D,Single,1,5,,SB Internet,0
+Lose,20/04/16 17:10,Soccer,Liverpool v Everton / Win-Draw-Win / Draw @ 3.80,3.80 (Win),3.8,5,0,O/1945704/0000166/D,Single,1,5,,SB Internet,0
+Lose,20/04/16 17:10,Soccer,Man Utd v Crystal Palace / Win-Draw-Win / Draw @ 4.50,4.50 (Win),4.5,5,0,O/1945704/0000165/D,Single,1,5,,SB Internet,0
+Lose,15/04/16 17:36,Soccer,Leicester v West Ham / Win-Draw-Win / West Ham @ 4.00,4.00 (Win),4,5,0,O/1945704/0000164/D,Single,1,5,,SB Internet,0
+Lose,15/04/16 17:36,Soccer,Norwich v Sunderland / Win-Draw-Win / Draw @ 3.20,3.20 (Win),3.2,5,0,O/1945704/0000163/D,Single,1,5,,SB Internet,0
+Win,15/04/16 17:36,Soccer,Everton v Southampton / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,5,16.5,O/1945704/0000162/D,Single,1,5,,SB Internet,0
+Lose,15/04/16 17:36,Soccer,West Brom v Watford / Win-Draw-Win / Draw @ 3.10,3.10 (Win),3.1,5,0,O/1945704/0000161/D,Single,1,5,,SB Internet,0
+Lose,15/04/16 17:36,Soccer,Newcastle v Swansea / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,5,0,O/1945704/0000160/D,Single,1,5,,SB Internet,0
+Lose,15/04/16 17:36,Soccer,Chelsea v Man City / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,5,0,O/1945704/0000159/D,Single,1,5,,SB Internet,0
+Lose,15/04/16 17:36,Soccer,Bournemouth v Liverpool / Win-Draw-Win / Draw @ 3.40,3.40 (Win),3.4,5,0,O/1945704/0000158/D,Single,1,5,,SB Internet,0
+Win,15/04/16 17:36,Soccer,Leicester v West Ham / Win-Draw-Win / Draw @ 3.50,3.50 (Win),3.5,5,17.5,O/1945704/0000157/D,Single,1,5,,SB Internet,0
+Win,08/04/16 16:46,Soccer,Guingamp v PSG / Win-Draw-Win / PSG @ 2.10,2.10 (Win),2.1,5,10.5,O/1945704/0000156/D,Single,1,5,,SB Internet,0
+Lose,08/04/16 16:43,Soccer,Multibet (6 folds),19.54,19.54,5,0,O/1945704/0000155/D,Multibet,1,5,,SB Internet,0
+Win,08/04/16 16:34,UK Outrights,Relegation 2015-2016 / Relegation / Norwich @ 2.80,2.80 (Win),2.8,5,14,O/1945704/0000154/D,Single,1,5,,SB Internet,0
+Cashed Out,08/04/16 16:33,UK Outrights,Premier League Outright Betting 2015-2016 / Outright Betting / Tottenham @ 5.50,5.50 (Win),5.5,5,1.93,O/1945704/0000153/D,Single,1,5,,SB Internet,0
+Lose,08/04/16 16:28,Soccer,Sunderland v Leicester / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,5,0,O/1945704/0000152/D,Single,1,5,,SB Internet,0
+Win,08/04/16 16:28,Soccer,West Ham v Arsenal / Win-Draw-Win / Draw @ 3.50,3.50 (Win),3.5,5,17.5,O/1945704/0000151/D,Single,1,5,,SB Internet,0
+Lose,08/04/16 16:28,Soccer,Southampton v Newcastle / Win-Draw-Win / Draw @ 3.80,3.80 (Win),3.8,5,0,O/1945704/0000150/D,Single,1,5,,SB Internet,0
+Win,08/04/16 16:28,Soccer,Watford v Everton / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,5,16.5,O/1945704/0000149/D,Single,1,5,,SB Internet,0
+Lose,08/04/16 16:28,Soccer,Tottenham v Man Utd / Win-Draw-Win / Draw @ 3.50,3.50 (Win),3.5,5,0,O/1945704/0000148/D,Single,1,5,,SB Internet,0
+Lose,07/04/16 16:58,Soccer,Multibet (Doubles),5.33,5.33,5,0,O/1945704/0000147/D,Multibet,1,5,,SB Internet,0
+Lose,07/04/16 16:57,Soccer,Multibet (Doubles),5.02,5.02,5,0,O/1945704/0000146/D,Multibet,1,5,,SB Internet,0
+Lose,01/04/16 14:59,Soccer,Barcelona v Real Madrid / Win-Draw-Win / Barcelona @ 1.57,1.57 (Win),1.57,5,0,O/1945704/0000145/D,Single,1,5,,SB Internet,0
+Lose,01/04/16 14:59,Soccer,Las Palmas v Valencia / Win-Draw-Win / Valencia @ 3.10,3.10 (Win),3.1,5,0,O/1945704/0000144/D,Single,1,5,,SB Internet,0
+Cashed Out,01/04/16 14:54,UK Outrights,Premier League Top 4 Finish 2015-2016 / Top 4 Finish / West Ham @ 6.00,6.00 (Win),6,5,0.65,O/1945704/0000143/D,Single,1,5,,SB Internet,0
+Lose,01/04/16 14:52,Soccer,Multibet (Doubles),6.31,6.31,5,0,O/1945704/0000142/D,Multibet,1,5,,SB Internet,0
+Win,01/04/16 14:49,Soccer,Multibet (Doubles),3.14,3.14,5,15.7,O/1945704/0000141/D,Multibet,1,5,,SB Internet,0
+Lose,02/03/16 17:05,Soccer,Stoke v Newcastle / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,3,0,O/1945704/0000140/D,Single,1,3,,SB Internet,0
+Cashed Out,02/03/16 17:04,Soccer,Liverpool v Man City / Win-Draw-Win / Man City @ 2.75,2.75 (Win),2.75,5,0.02,O/1945704/0000139/D,Single,1,5,,SB Internet,0
+Lose,02/03/16 17:04,Soccer,Multibet (Trebles),4.37,4.37,5,0,O/1945704/0000138/D,Multibet,1,5,,SB Internet,0
+Lose,01/03/16 17:30,Soccer,Multibet (Doubles),4.25,4.25,5,0,O/1945704/0000137/D,Multibet,1,5,,SB Internet,0
+Lose,01/03/16 17:30,Soccer,Multibet (Doubles),4.59,4.59,5,0,O/1945704/0000136/D,Multibet,1,5,,SB Internet,0
+Lose,01/03/16 17:26,Soccer,Multibet (Doubles),6.75,6.75,5,0,O/1945704/0000135/D,Multibet,1,5,,SB Internet,0
+Lose,26/02/16 17:59,Soccer,Multibet (Doubles),1.78,1.78,5,0,O/1945704/0000134/D,Multibet,1,5,,SB Internet,0
+Lose,26/02/16 17:53,Soccer,Multibet (Doubles),4.1,4.1,5,0,O/1945704/0000133/D,Multibet,1,5,,SB Internet,0
+Lose,26/02/16 17:10,Soccer,Multibet (Trebles),3.21,3.21,5,0,O/1945704/0000132/D,Multibet,1,5,,SB Internet,0
+Win,26/02/16 17:05,Soccer,Southampton v Chelsea / Win-Draw-Win / Chelsea @ 2.62,2.62 (Win),2.62,5,13.1,O/1945704/0000131/D,Single,1,5,,SB Internet,0
+Lose,26/02/16 17:04,Soccer,Man Utd v Arsenal / Win-Draw-Win / Arsenal @ 2.40,2.40 (Win),2.4,5,0,O/1945704/0000130/D,Single,1,5,,SB Internet,0
+Win,26/02/16 17:01,Soccer,Multibet (Doubles),2.55,2.55,5,12.78,O/1945704/0000129/D,Multibet,1,5,,SB Internet,0
+Lose,26/02/16 17:00,Soccer,Liverpool v Man City  - Wembley / Win-Draw-Win / Man City @ 2.30,2.30 (Win),2.3,5,0,O/1945704/0000128/D,Single,1,5,,SB Internet,0
+Cashed Out,26/02/16 17:00,Soccer,Multibet (4 folds),16.06,16.06,5,32.84,O/1945704/0000127/D,Multibet,1,5,,SB Internet,0
+Lose,24/02/16 17:04,Soccer,Multibet (Doubles),4.16,4.16,5,0,O/1945704/0000126/D,Multibet,1,5,,SB Internet,0
+Lose,23/02/16 17:40,Soccer,Napoli v Villarreal / First Goalscorer / G Higuain @ 4.50,4.50 (Win),4.5,2,0,O/1945704/0000125/D,Single,1,2,,SB Internet,0
+Lose,23/02/16 17:38,Soccer,Man Utd v Midtjylland / Correct Score / Draw 0 - 0 @ 20.00,20.00 (Win),20,2,0,O/1945704/0000124/D,Single,1,2,,SB Internet,0
+Lose,23/02/16 17:36,Soccer,Tottenham v Fiorentina / First Goalscorer / T Alderweireld @ 21.00,21.00 (Win),21,1,0,O/1945704/0000123/D,Single,1,1,,SB Internet,0
+Lose,23/02/16 17:31,Soccer,Multibet (Doubles),7.92,7.92,3,0,O/1945704/0000122/D,Multibet,1,3,,SB Internet,0
+Lose,23/02/16 17:30,Soccer,Multibet (Doubles),3.11,3.11,5,0,O/1945704/0000121/D,Multibet,1,5,,SB Internet,0
+Lose,23/02/16 17:19,Soccer,Juventus v Bayern Munich / Correct Score / Draw 1 - 1 @ 6.00,6.00 (Win),6,3,0,O/1945704/0000120/D,Single,1,3,,SB Internet,0
+Win,23/02/16 17:18,Soccer,Juventus v Bayern Munich / Win-Draw-Win / Draw @ 3.20,3.20 (Win),3.2,5,16,O/1945704/0000119/D,Single,1,5,,SB Internet,0
+Win,23/02/16 17:16,Soccer,Arsenal v Barcelona / Correct Score / Barcelona 2 - 0 @ 9.50,9.50 (Win),9.5,2,19,O/1945704/0000118/D,Single,1,2,,SB Internet,0
+Win,23/02/16 17:12,Soccer,Arsenal v Barcelona / Win-Draw-Win / Barcelona @ 1.73,1.73 (Win),1.73,10,17.3,O/1945704/0000117/D,Single,1,10,,SB Internet,0
+Lose,22/01/16 16:34,Soccer,Multibet (Trebles),2.56,2.56,5,0,O/1945704/0000116/D,Multibet,1,5,,SB Internet,0
+Lose,22/01/16 16:28,Soccer,Multibet (Trebles),2.72,2.72,5,0,O/1945704/0000115/D,Multibet,1,5,,SB Internet,0
+Lose,22/01/16 16:26,Soccer,Multibet (Doubles),11.4,11.4,5,0,O/1945704/0000114/D,Multibet,1,5,,SB Internet,0
+Lose,22/01/16 16:25,Soccer,Multibet (Doubles),7.92,7.92,5,0,O/1945704/0000113/D,Multibet,1,5,,SB Internet,0
+Lose,22/01/16 16:25,Soccer,Multibet (6 folds),352.12,352.12,2,0,O/1945704/0000112/D,Multibet,1,2,,SB Internet,0
+Lose,15/01/16 17:24,Soccer,Liverpool v Man Utd / First Goalscorer / R Firmino @ 7.50,7.50 (Win),7.5,2,0,O/1945704/0000111/D,Single,1,2,,SB Internet,0
+Lose,15/01/16 17:21,Soccer,Tottenham v Sunderland / First Goalscorer / J Defoe @ 13.00,13.00 (Win),13,2,0,O/1945704/0000110/D,Single,1,2,,SB Internet,0
+Lose,15/01/16 17:20,Soccer,Napoli v Sassuolo / Draw No Bet / Sassuolo @ 8.00,8.00 (Win),8,5,0,O/1945704/0000109/D,Single,1,5,,SB Internet,0
+Lose,15/01/16 17:18,Soccer,Multibet (Trebles),3.54,3.54,5,0,O/1945704/0000108/D,Multibet,1,5,,SB Internet,0
+Win,15/01/16 17:01,Soccer,Liverpool v Man Utd / Winning Margin / Man Utd to win by exactly 1 goal @ 4.50,4.50 (Win),4.5,5,22.5,O/1945704/0000107/D,Single,1,5,,SB Internet,0
+Lose,15/01/16 17:01,Soccer,Liverpool v Man Utd / Winning Margin / Liverpool to win by exactly 1 goal @ 3.75,3.75 (Win),3.75,5,0,O/1945704/0000106/D,Single,1,5,,SB Internet,0
+Lose,15/01/16 16:59,Soccer,Multibet (Doubles),18.9,18.9,5,0,O/1945704/0000105/D,Multibet,1,5,,SB Internet,0
+Win,15/01/16 16:58,Soccer,Multibet (Doubles),1.9,1.9,5,9.52,O/1945704/0000104/D,Multibet,1,5,,SB Internet,0
+Win,08/01/16 17:08,Soccer,Southampton v Crystal Palace / Win-Draw-Win / Crystal Palace @ 4.33,4.33 (Win),4.33,5,21.65,O/1945704/0000103/D,Single,1,5,,SB Internet,0
+Lose,08/01/16 17:07,Soccer,Watford v Newcastle / Win-Draw-Win / Newcastle @ 4.33,4.33 (Win),4.33,5,0,O/1945704/0000102/D,Single,1,5,,SB Internet,0
+Lose,08/01/16 16:37,Soccer,Multibet (Trebles),131.24,131.24,5,0,O/1945704/0000101/D,Multibet,1,5,,SB Internet,0
+Lose,08/01/16 16:35,Soccer,Multibet (Trebles),4.35,4.35,5,0,O/1945704/0000100/D,Multibet,1,5,,SB Internet,0
+Lose,18/12/15 15:13,Soccer,Multibet (6 folds),12.57,12.57,6,0,O/1945704/0000099/D,Multibet,1,6,,SB Internet,0
+Lose,18/12/15 15:03,Soccer,Everton v Leicester / First Goalscorer / R Lukaku @ 4.50,4.50 (Win),4.5,3,0,O/1945704/0000098/D,Single,1,3,,SB Internet,0
+Lose,18/12/15 15:03,Soccer,Everton v Leicester / First Goalscorer / J Vardy @ 6.50,6.50 (Win),6.5,3,0,O/1945704/0000097/D,Single,1,3,,SB Internet,0
+Win,18/12/15 15:03,Soccer,Everton v Leicester / First Goalscorer / R Mahrez @ 10.00,10.00 (Win),10,3,30,O/1945704/0000096/D,Single,1,3,,SB Internet,0
+Lose,18/12/15 14:45,Soccer,Multibet (Doubles),5.36,5.36,5,0,O/1945704/0000095/D,Multibet,1,5,,SB Internet,0
+Lose,20/11/15 17:38,Soccer,Multibet (5 folds),14.18,14.18,2,0,O/1945704/0000094/D,Multibet,1,2,,SB Internet,0
+Win,20/11/15 17:36,Soccer,Multibet (Doubles),2.19,2.19,10,21.98,O/1945704/0000093/D,Multibet,1,10,,SB Internet,0
+Lose,20/11/15 17:33,Soccer,Chelsea v Norwich / Win-Draw-Win / Norwich @ 8.50,8.50 (Win),8.5,3,0,O/1945704/0000092/D,Single,1,3,,SB Internet,0
+Lose,20/11/15 17:30,Soccer,Multibet (Trebles),4.58,4.58,5,0,O/1945704/0000091/D,Multibet,1,5,,SB Internet,0
+Lose,13/11/15 16:23,Multibet,Multibet (5 folds),3.82,3.82,5,0,O/1945704/0000090/D,Multibet,1,5,,SB Internet,0
+Lose,06/11/15 17:50,Soccer,Multibet (5 folds),9.03,9.03,5,0,O/1945704/0000089/D,Multibet,1,5,,SB Internet,0
+Lose,06/11/15 17:41,Soccer,Multibet (Trebles),10.61,10.61,5,0,O/1945704/0000088/D,Multibet,1,5,,SB Internet,0
+Lose,06/11/15 17:40,Soccer,Multibet (Doubles),6.04,6.04,5,0,O/1945704/0000087/D,Multibet,1,5,,SB Internet,0
+Lose,03/11/15 13:56,Horses - Aus/NZ,"Flemington R7 / Boxed Trifecta (3, 12, 14) / Fixed Price",Fixed,83%,4.98,0,O/1945704/0000086/D,Boxed Trifecta,6,0.83,83%,SB Internet,0
+Lose,03/11/15 13:54,Horses - Aus/NZ,"Flemington R7 / Boxed Trifecta (3, 12, 14) / Fixed Price",Fixed,166%,9.96,0,O/1945704/0000085/D,Boxed Trifecta,6,1.66,166%,SB Internet,0
+Lose,03/11/15 13:15,Horses - Aus/NZ,Flemington R7 / Win or Place / 17. Almoonqith @ 5.00,5.00 (Place),5,10,0,O/1945704/0000084/D,Single,1,10,,SB Internet,0
+Lose,03/11/15 13:15,Horses - Aus/NZ,Flemington R7 / Win or Place / 11. Who Shot Thebarman @ 5.50,5.50 (Place),5.5,10,0,O/1945704/0000083/D,Single,1,10,,SB Internet,0
+Win,03/11/15 13:10,Horses - Aus/NZ,Flemington R7 / Win or Place / 8. Max Dynamite @ 3.50,3.50 (Place),3.5,10,35,O/1945704/0000082/D,Single,1,10,,SB Internet,0
+Lose,03/11/15 12:52,Horses - Aus/NZ,Flemington R7 / Win or Place / 3. Fame Game @ 5.00,5.00 (Win),5,10,0,O/1945704/0000081/D,Single,1,10,,SB Internet,0
+Lose,03/11/15 12:43,Horses - Aus/NZ,Flemington R7 / Win or Place / 22. The United States @ 6.00,6.00 (Place),6,10,0,O/1945704/0000080/D,Single,1,10,,SB Internet,0
+Lose,30/10/15 17:42,Soccer,Multibet (7 folds),27.87,27.87,3,0,O/1945704/0000079/D,Multibet,1,3,,SB Internet,0
+Lose,30/10/15 17:33,Soccer,Multibet (Trebles),7.32,7.32,5,0,O/1945704/0000078/D,Multibet,1,5,,SB Internet,0
+Lose,30/10/15 17:26,Soccer,Multibet (Doubles),17,17,2,0,O/1945704/0000077/D,Multibet,1,2,,SB Internet,0
+Lose,30/10/15 17:26,Soccer,Multibet (Doubles),6.09,6.09,5,0,O/1945704/0000076/D,Multibet,1,5,,SB Internet,0
+Lose,30/10/15 17:22,Soccer,Multibet (Trebles),4.59,4.59,5,0,O/1945704/0000075/D,Multibet,1,5,,SB Internet,0
+Lose,23/10/15 18:42,Soccer,Multibet (5 folds),13.55,13.55,4,0,O/1945704/0000074/D,Multibet,1,4,,SB Internet,0
+Lose,23/10/15 17:58,Soccer,Multibet (Doubles),4.06,4.06,5,0,O/1945704/0000073/D,Multibet,1,5,,SB Internet,0
+Lose,23/10/15 17:53,Soccer,Multibet (Doubles),8.6,8.6,3,0,O/1945704/0000072/D,Multibet,1,3,,SB Internet,0
+Lose,23/10/15 17:50,Soccer,Multibet (Trebles),6.32,6.32,5,0,O/1945704/0000071/D,Multibet,1,5,,SB Internet,0
+Lose,23/10/15 17:34,Soccer,Arsenal v Everton / Win-Draw-Win / Everton @ 7.50,7.50 (Win),7.5,3,0,O/1945704/0000070/D,Single,1,3,,SB Internet,0
+Lose,18/10/15 21:21,Soccer,Napoli v Fiorentina / Win-Draw-Win / Fiorentina @ 4.50,4.50 (Win),4.5,5,0,O/1945704/0000069/D,Single,1,5,,SB Internet,0
+Cashed Out,16/10/15 17:35,Soccer,Multibet (8 folds),9.58,9.58,2.5,14.53,O/1945704/0000068/D,Multibet,1,2.5,,SB Internet,0
+Lose,16/10/15 17:30,Soccer,Multibet (4 folds),14.14,14.14,5,0,O/1945704/0000067/D,Multibet,1,5,,SB Internet,0
+Lose,16/10/15 17:29,Soccer,Multibet (4 folds),34.34,34.34,2.5,0,O/1945704/0000066/D,Multibet,1,2.5,,SB Internet,0
+Lose,16/10/15 17:24,Soccer,Multibet (Trebles),4.14,4.14,5,0,O/1945704/0000065/D,Multibet,1,5,,SB Internet,0
+Lose,16/10/15 17:21,Soccer,Multibet (Doubles),6.67,6.67,5,0,O/1945704/0000064/D,Multibet,1,5,,SB Internet,0
+Lose,13/10/15 17:35,Soccer,Multibet (4 folds),3.96,3.96,5,0,O/1945704/0000063/D,Multibet,1,5,,SB Internet,0
+Cashed Out,09/10/15 18:40,Soccer,Multibet (8 folds),5.32,5.32,5,19.24,O/1945704/0000062/D,Multibet,1,5,,SB Internet,0
+Lose,09/10/15 17:51,Rugby Union,England v Uruguay / Head To Head / Uruguay @ 100.00,100.00 (Win),100,1,0,O/1945704/0000061/D,Single,1,1,,SB Internet,0
+Lose,02/10/15 16:43,Soccer,Multibet (6 folds),30.53,30.53,5,0,O/1945704/0000060/D,Multibet,1,5,,SB Internet,0
+Lose,02/10/15 16:32,Soccer,Multibet (Doubles),5.03,5.03,4,0,O/1945704/0000059/D,Multibet,1,4,,SB Internet,0
+Lose,01/10/15 18:12,Soccer,Multibet (Doubles),13.5,13.5,3,0,O/1945704/0000058/D,Multibet,1,3,,SB Internet,0
+Lose,01/10/15 18:10,Soccer,Multibet (Doubles),10.2,10.2,3,0,O/1945704/0000057/D,Multibet,1,3,,SB Internet,0
+Lose,01/10/15 18:06,Soccer,Multibet (Doubles),6.56,6.56,5,0,O/1945704/0000056/D,Multibet,1,5,,SB Internet,0
+Lose,25/09/15 16:49,Soccer,Multibet (5 folds),27.76,27.76,3,0,O/1945704/0000055/D,Multibet,1,3,,SB Internet,0
+Lose,25/09/15 16:36,Soccer,Feyenoord v PEC Zwolle / Win-Draw-Win / PEC Zwolle @ 7.60,7.60 (Win),7.6,2,0,O/1945704/0000054/D,Single,1,2,,SB Internet,0
+Lose,25/09/15 16:34,Soccer,Leicester v Arsenal / Win-Draw-Win / Leicester @ 4.20,4.20 (Win),4.2,5,0,O/1945704/0000053/D,Single,1,5,,SB Internet,0
+Lose,25/09/15 16:33,Soccer,Multibet (5 folds),9.88,9.88,5,0,O/1945704/0000052/D,Multibet,1,5,,SB Internet,0
+Lose,25/09/15 16:32,Soccer,Multibet (Doubles),5.76,5.76,5,0,O/1945704/0000051/D,Multibet,1,5,,SB Internet,0
+Lose,18/09/15 17:38,Soccer,Chelsea v Arsenal / Correct Score / Chelsea 2 - 1 @ 8.50,8.50 (Win),8.5,1,0,O/1945704/0000050/D,Single,1,1,,SB Internet,0
+Lose,18/09/15 17:38,Soccer,Chelsea v Arsenal / Correct Score / Draw 1 - 1 @ 6.50,6.50 (Win),6.5,1,0,O/1945704/0000049/D,Single,1,1,,SB Internet,0
+Lose,18/09/15 17:28,Soccer,Multibet (Doubles),6.36,6.36,3,0,O/1945704/0000048/D,Multibet,1,3,,SB Internet,0
+Win,18/09/15 17:23,Soccer,Swansea v Everton / Win-Draw-Win / Draw @ 3.30,3.30 (Win),3.3,2,6.6,O/1945704/0000047/D,Single,1,2,,SB Internet,0
+Lose,18/09/15 17:22,Soccer,Multibet (Doubles),5.52,5.52,4,0,O/1945704/0000046/D,Multibet,1,4,,SB Internet,0
+Win,18/09/15 17:13,Soccer,Man City v West Ham / Win-Draw-Win / West Ham @ 12.00,12.00 (Win),12,2,24,O/1945704/0000045/D,Single,1,2,,SB Internet,0
+Lose,18/09/15 17:09,Soccer,Multibet (9 folds),39.5,39.5,2,0,O/1945704/0000044/D,Multibet,1,2,,SB Internet,0
+Lose,18/09/15 16:50,Soccer,Multibet (Trebles),13.48,13.48,5,0,O/1945704/0000043/D,Multibet,1,5,,SB Internet,0
+Lose,11/09/15 16:40,Soccer,Man Utd v Liverpool / Win-Draw-Win / Draw @ 3.40,3.40 (Win),3.4,3,0,O/1945704/0000042/D,Single,1,3,,SB Internet,0
+Lose,11/09/15 16:39,Soccer,Multibet (5 folds),34.97,34.97,2,0,O/1945704/0000041/D,Multibet,1,2,,SB Internet,0
+Lose,11/09/15 16:19,Soccer,Arsenal v Stoke / Win-Draw-Win / Stoke @ 10.00,10.00 (Win),10,2.5,0,O/1945704/0000040/D,Single,1,2.5,,SB Internet,0
+Win,11/09/15 16:19,Soccer,Everton v Chelsea / Win-Draw-Win / Everton @ 4.00,4.00 (Win),4,2.5,10,O/1945704/0000039/D,Single,1,2.5,,SB Internet,0
+Lose,11/09/15 16:19,Soccer,Multibet (Trebles),164,164,2.5,0,O/1945704/0000038/D,Multibet,1,2.5,,SB Internet,0
+Lose,11/09/15 16:15,Soccer,Multibet (4 folds),65.52,65.52,2.5,0,O/1945704/0000037/D,Multibet,1,2.5,,SB Internet,0
+Lose,28/08/15 18:34,Soccer,Multibet (6 folds),24.01,24.01,2.5,0,O/1945704/0000036/D,Multibet,1,2.5,,SB Internet,0
+Win,28/08/15 18:29,Soccer,Multibet (5 folds),14.6,14.6,2.5,36.52,O/1945704/0000035/D,Multibet,1,2.5,,SB Internet,0
+Lose,28/08/15 18:19,Soccer,Multibet (Trebles),112.2,112.2,2.5,0,O/1945704/0000034/D,Multibet,1,2.5,,SB Internet,0
+Lose,28/08/15 18:15,Soccer,Multibet (Trebles),66,66,2.5,0,O/1945704/0000033/D,Multibet,1,2.5,,SB Internet,0
+Lose,28/08/15 18:13,Soccer,Multibet (Doubles),7.35,7.35,2.5,0,O/1945704/0000032/D,Multibet,1,2.5,,SB Internet,0
+Lose,28/08/15 18:12,Soccer,Multibet (Doubles),8.4,8.4,2.5,0,O/1945704/0000031/D,Multibet,1,2.5,,SB Internet,0
+Lose,21/08/15 21:06,Soccer,Multibet (5 folds),39.06,39.06,5,0,O/1945704/0000030/D,Multibet,1,5,,SB Internet,0
+Lose,21/08/15 20:59,Soccer,Multibet (5 folds),76.21,76.21,5,0,O/1945704/0000029/D,Multibet,1,5,,SB Internet,0
+Lose,21/08/15 20:53,Soccer,Multibet (5 folds),55.89,55.89,10,0,O/1945704/0000028/D,Multibet,1,10,,SB Internet,0
+Lose,13/08/15 19:43,Soccer,Multibet (6 folds),304.07,304.07,5,0,O/1945704/0000027/D,Multibet,1,5,,SB Internet,0
+Lose,13/08/15 19:41,Soccer,Multibet (5 folds),89.43,89.43,5,0,O/1945704/0000026/D,Multibet,1,5,,SB Internet,0
+Lose,07/08/15 17:41,Soccer,Multibet (5 folds),33.61,33.61,2.5,0,O/1945704/0000025/D,Multibet,1,2.5,,SB Internet,0
+Lose,07/08/15 17:30,Soccer,Multibet (6 folds),69.73,69.73,2.5,0,O/1945704/0000024/D,Multibet,1,2.5,,SB Internet,0
+Lose,07/08/15 17:27,Soccer,Multibet (6 folds),100.04,100.04,2.5,0,O/1945704/0000023/D,Multibet,1,2.5,,SB Internet,0
+Lose,07/08/15 17:26,Soccer,Multibet (6 folds),41.65,41.65,2.5,0,O/1945704/0000022/D,Multibet,1,2.5,,SB Internet,0
+Lose,06/02/15 16:46,Soccer,Multibet (Trebles),23.62,23.62,2,0,O/1945704/0000021/D,Multibet,1,2,,SB Internet,0
+Lose,06/02/15 16:40,Soccer,Multibet (5 folds),17.09,17.09,3.36,0,O/1945704/0000020/D,Multibet,1,3.36,,SB Internet,0
+Lose,30/01/15 13:42,Soccer,Multibet (4 folds),4.3,4.3,5,0,O/1945704/0000019/D,Multibet,1,5,,SB Internet,0
+Lose,30/01/15 13:20,Soccer,Multibet (7 folds),179.33,179.33,5,0,O/1945704/0000018/D,Multibet,1,5,,SB Internet,0
+Win,29/01/15 14:32,Soccer,Multibet (Doubles),2.9,2.9,2,5.81,O/1945704/0000017/D,Multibet,1,2,,SB Internet,0
+Lose,27/01/15 18:37,Tennis,A Murray v N Kyrgios / Set Betting / A Murray 3-1 @ 3.60,3.60 (Win),3.6,2,0,O/1945704/0000016/D,Single,1,2,,SB Internet,0
+Lose,22/01/15 15:36,Cricket,Multibet (Doubles),3.11,3.11,2,0,O/1945704/0000015/D,Multibet,1,2,,SB Internet,0
+Lose,21/01/15 17:42,Soccer,Multibet (Trebles),4.53,4.53,2,0,O/1945704/0000014/D,Multibet,1,2,,SB Internet,0
+Lose,21/01/15 17:41,Soccer,Multibet (Trebles),11.17,11.17,1,0,O/1945704/0000013/D,Multibet,1,1,,SB Internet,0
+Lose,21/01/15 17:38,Soccer,Multibet (6 folds),9.39,9.39,3,0,O/1945704/0000012/D,Multibet,1,3,,SB Internet,0
+Lose,15/01/15 19:42,Soccer,Multibet (Trebles),4.49,4.49,2,0,O/1945704/0000011/D,Multibet,1,2,,SB Internet,0
+Lose,15/01/15 16:59,Soccer,Multibet (5 folds),138.91,138.91,5,0,O/1945704/0000010/D,Multibet,1,5,,SB Internet,0
+Lose,15/01/15 14:00,Cricket,Australia v England / 1st Wicket Caught? / Yes @ 1.40,1.40 (Win),1.4,5,0,O/1945704/0000009/D,Single,1,5,,SB Internet,0
+Win,15/01/15 13:59,Cricket,Australia v England / Team A - Batsman C Total Runs / David Warner Over (28.5) @ 1.85,1.85 (Win),1.85,5,9.25,O/1945704/0000008/D,Over/Under,1,5,,SB Internet,0
+Lose,15/01/15 13:59,Cricket,Australia v England / Team A - Batsman A Total Runs / Aaron Finch Over (23.5) @ 1.88,1.88 (Win),1.88,5,0,O/1945704/0000007/D,Over/Under,1,5,,SB Internet,0
+Win,15/01/15 13:54,Cricket,Australia v England / Match / Australia @ 1.36,1.36 (Win),1.36,5,6.8,O/1945704/0000006/D,Single,1,5,,SB Internet,0
+Win,08/01/15 09:55,Cricket,Australia v India / Team Total Runs - Level 3* / India - Over (467.5) @ 2.25,2.25 (Win),2.25,10,22.5,O/1945704/0000005/D,Over/Under,1,10,,SB Internet,0
+Lose,08/01/15 09:54,Soccer,Multibet (4 folds),124.74,124.74,5,0,O/1945704/0000004/D,Multibet,1,5,,SB Internet,0
+Lose,04/11/14 14:32,Horses - Aus/NZ,Flemington R7 / Win or Place / 13. Willing Foe @ 8.50,8.50 (Place),8.5,10,0,O/1945704/0000003/D,Single,1,10,,SB Internet,0
+Lose,04/11/14 14:32,Horses - Aus/NZ,Flemington R7 / Win or Place / 1. Admire Rakti @ 2.10,2.10 (Place),2.1,10,0,O/1945704/0000002/D,Single,1,10,,SB Internet,0
+Lose,04/11/14 14:32,Horses - Aus/NZ,Flemington R7 / Win or Place / 22. Lucia Valentina @ 2.50,2.50 (Place),2.5,10,0,O/1945704/0000001/D,Single,1,10,,SB Internet,0
